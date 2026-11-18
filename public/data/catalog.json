@@ -1,0 +1,3265 @@
+[
+  {
+    "asset_id": "ph_ArmChair_01",
+    "source_asset_id": "ArmChair_01",
+    "name": "Arm Chair 01",
+    "category": "armchair",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/ArmChair_01",
+    "license": "CC0-1.0",
+    "authors": {
+      "Kirill Sannikov": "All"
+    },
+    "model_path": "processed/models/ArmChair_01.glb",
+    "preview_path": "processed/previews/ArmChair_01.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "e5836bc36b3c0c113457a78b245a4bdb4ccb7229023d03000d51b0bd3b76959a",
+    "model_bytes": 768320,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 848.431,
+    "height_mm": 1065.088,
+    "depth_mm": 765.76,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      848.4309017658234,
+      765.7602727413177,
+      1065.087635157397
+    ],
+    "upstream_dimensions_sorted_relative_error": 0.0,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      -1.4901161193847656e-08,
+      0.0004314967372920364,
+      0.03442646563053131
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 5626,
+    "embedded_image_count": 3,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "gothic",
+      "vintage",
+      "chair",
+      "furniture",
+      "victorian",
+      "couch",
+      "wood",
+      "varnished",
+      "classic"
+    ],
+    "source_attributes": {
+      "condition": [
+        "worn"
+      ],
+      "material": [
+        "wood",
+        "fabric"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/ArmChair_01/ArmChair_01_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/ArmChair_01/ArmChair_01_1k.gltf",
+        "source_md5": "39d1e4b0ffdde688c98335c9621e3aae",
+        "sha256": "91e39d5b35f36c8074b7b6432f6fd77f5f1a257c4d6af3924c0b263eb674286b",
+        "bytes": 2643
+      },
+      {
+        "path": "raw/polyhaven/ArmChair_01/textures/Armchair_01_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ArmChair_01/Armchair_01_diff_1k.jpg",
+        "source_md5": "9166f2c24f2114a5fa5513950ed9b9ae",
+        "sha256": "db30fc9ab61ac50c91ab7573583d2855a2910df1ecade02b89e3e8ab8d4e4c2d",
+        "bytes": 184246
+      },
+      {
+        "path": "raw/polyhaven/ArmChair_01/ArmChair_01.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/ArmChair_01/ArmChair_01.bin",
+        "source_md5": "fbd842795fdec75d94f1335c28acfc0e",
+        "sha256": "42a4206ea8bb3f7c3c1500ca3e408e084e8687cd3cc9cbf095b3344e215e0db6",
+        "bytes": 154012
+      },
+      {
+        "path": "raw/polyhaven/ArmChair_01/textures/Armchair_01_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ArmChair_01/Armchair_01_nor_gl_1k.jpg",
+        "source_md5": "8541821edd6dcb319b7f9841d849fbbe",
+        "sha256": "f5e4a43a12e79537e53e27c2bd4c5296b3e191cd6b301afce9fafd9d38238dde",
+        "bytes": 289916
+      },
+      {
+        "path": "raw/polyhaven/ArmChair_01/textures/Armchair_01_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ArmChair_01/Armchair_01_arm_1k.jpg",
+        "source_md5": "2ea528244dd6fc0deb2af1a555c0a312",
+        "sha256": "d272c68e8180f2a381314ac0cef5a9165d15d951a0558cb40a17af71cf6a51c6",
+        "bytes": 138327
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_ClassicNightstand_01",
+    "source_asset_id": "ClassicNightstand_01",
+    "name": "Classic Nightstand 01",
+    "category": "nightstand",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/ClassicNightstand_01",
+    "license": "CC0-1.0",
+    "authors": {
+      "Kirill Sannikov": "All"
+    },
+    "model_path": "processed/models/ClassicNightstand_01.glb",
+    "preview_path": "processed/previews/ClassicNightstand_01.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "334b9358163ea949d2baf4239a3d8a14e79563cf8f9be679470c1842e89309e1",
+    "model_bytes": 444068,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 567.752,
+    "height_mm": 699.965,
+    "depth_mm": 424.193,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      567.7522718906403,
+      424.192875623703,
+      699.9649838462041
+    ],
+    "upstream_dimensions_sorted_relative_error": 0.0,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      1.4901161193847656e-08,
+      4.329826097659861e-08,
+      -0.0
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 2002,
+    "embedded_image_count": 3,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "wood",
+      "vintage",
+      "table",
+      "gothic",
+      "victorian",
+      "decorative"
+    ],
+    "source_attributes": {
+      "condition": [
+        "worn"
+      ],
+      "material": [
+        "wood"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/ClassicNightstand_01/ClassicNightstand_01_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/ClassicNightstand_01/ClassicNightstand_01_1k.gltf",
+        "source_md5": "8c2c91db450dd05773d052450e5b5816",
+        "sha256": "e8218ceead6c07d2641a0bd54974a67b13dd7ebc110e07e9738e17c206c7b892",
+        "bytes": 2754
+      },
+      {
+        "path": "raw/polyhaven/ClassicNightstand_01/textures/ClassicNightstand_01_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ClassicNightstand_01/ClassicNightstand_01_arm_1k.jpg",
+        "source_md5": "c935951f5c188a202957753dd42b2e70",
+        "sha256": "2a2ba3094e6baedebdddc1660684f42aa8556e405ef8e540f08ffa5a083adbf3",
+        "bytes": 111670
+      },
+      {
+        "path": "raw/polyhaven/ClassicNightstand_01/ClassicNightstand_01.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/ClassicNightstand_01/ClassicNightstand_01.bin",
+        "source_md5": "a97360812af4796a6abf592b4f893b51",
+        "sha256": "1ac0f3065df040e5a85c3807fa07947de7185ad40ed064f3399fa9fc93387a7f",
+        "bytes": 68684
+      },
+      {
+        "path": "raw/polyhaven/ClassicNightstand_01/textures/ClassicNightstand_01_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ClassicNightstand_01/ClassicNightstand_01_nor_gl_1k.jpg",
+        "source_md5": "2238bf1c92152c6650cc3e45263e8b3d",
+        "sha256": "42692b8c2645559db4803135c9e3b1e1f11bd8b2022bbe0b750f4c3e5d65c225",
+        "bytes": 154306
+      },
+      {
+        "path": "raw/polyhaven/ClassicNightstand_01/textures/ClassicNightstand_01_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/ClassicNightstand_01/ClassicNightstand_01_diff_1k.jpg",
+        "source_md5": "5c4482658007e18e9c73666e44b955b7",
+        "sha256": "aa841a5dcea9154bb1a26eb1be37d6b69fc8b2777f3dfcc3f7c7880c7048a5c6",
+        "bytes": 107526
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_CoffeeTable_01",
+    "source_asset_id": "CoffeeTable_01",
+    "name": "Coffee Table 01",
+    "category": "coffee_table",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/CoffeeTable_01",
+    "license": "CC0-1.0",
+    "authors": {
+      "Fernando Quinn": "All"
+    },
+    "model_path": "processed/models/CoffeeTable_01.glb",
+    "preview_path": "processed/previews/CoffeeTable_01.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "da11873ac26c4d404f53e533255603d452ed0474f97aaa6db09547907008b9cd",
+    "model_bytes": 956784,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 1540.011,
+    "height_mm": 523.237,
+    "depth_mm": 972.847,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      1540.0111079216003,
+      972.847044467926,
+      523.237330140546
+    ],
+    "upstream_dimensions_sorted_relative_error": 0.0,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      -2.0563602447509766e-06,
+      -0.0019255455117672682,
+      2.9802322387695312e-08
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 10404,
+    "embedded_image_count": 3,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "wood",
+      "vintage",
+      "table",
+      "painted",
+      "old",
+      "worn",
+      "decorative"
+    ],
+    "source_attributes": {
+      "condition": [
+        "worn"
+      ],
+      "material": [
+        "wood"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/CoffeeTable_01/CoffeeTable_01_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/CoffeeTable_01/CoffeeTable_01_1k.gltf",
+        "source_md5": "5a981114987ebd1d7033dee542803988",
+        "sha256": "c0b7ce378fc13886c220236941b4d258389d252e337297dc89505b80e43617fb",
+        "bytes": 3182
+      },
+      {
+        "path": "raw/polyhaven/CoffeeTable_01/textures/CoffeeTable_01_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CoffeeTable_01/CoffeeTable_01_nor_gl_1k.jpg",
+        "source_md5": "40c14c4e129b068fa1b4987a7dbbbf9d",
+        "sha256": "0aa55f510be698c7c0e2c0c2deff2a4e892a9343da98bb901daa84e104883de7",
+        "bytes": 168414
+      },
+      {
+        "path": "raw/polyhaven/CoffeeTable_01/textures/CoffeeTable_01_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CoffeeTable_01/CoffeeTable_01_diff_1k.jpg",
+        "source_md5": "9c52acf206cb7912f9c7fd74edcd5b48",
+        "sha256": "170967df5c50342bb5f0273d1fb99f22cef80a0e7f50264e16dec75d1b2830ba",
+        "bytes": 196775
+      },
+      {
+        "path": "raw/polyhaven/CoffeeTable_01/textures/CoffeeTable_01_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CoffeeTable_01/CoffeeTable_01_arm_1k.jpg",
+        "source_md5": "78551ee723828bb20937897745c58ff5",
+        "sha256": "b8d7dfe15a11ba361919840f00f360d1133f985ff4321b2e891cf941eb5b51c0",
+        "bytes": 194521
+      },
+      {
+        "path": "raw/polyhaven/CoffeeTable_01/CoffeeTable_01.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/CoffeeTable_01/CoffeeTable_01.bin",
+        "source_md5": "a8815aecc367e1efd401cd644d679899",
+        "sha256": "1b047e37723ad62b6a204465b22b9fd40936957cee255f20ee65312db227fb11",
+        "bytes": 394920
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_Rockingchair_01",
+    "source_asset_id": "Rockingchair_01",
+    "name": "Rockingchair 01",
+    "category": "armchair",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/Rockingchair_01",
+    "license": "CC0-1.0",
+    "authors": {
+      "Jorge Camacho": "All"
+    },
+    "model_path": "processed/models/Rockingchair_01.glb",
+    "preview_path": "processed/previews/Rockingchair_01.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "27cb6820322c0672f90193901fae447414b406b1dcfefadc8db0ebd1d5828218",
+    "model_bytes": 803904,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 708.128,
+    "height_mm": 994.928,
+    "depth_mm": 833.482,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      708.1280946731567,
+      833.482027053833,
+      994.9284568428993
+    ],
+    "upstream_dimensions_sorted_relative_error": 0.0,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      -0.0,
+      -0.1016392931342125,
+      -0.06227022409439087
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 11866,
+    "embedded_image_count": 3,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "chair",
+      "vintage",
+      "prop",
+      "wood",
+      "furniture",
+      "rocking chair",
+      "rocking",
+      "decorative",
+      "curved legs",
+      "traditional",
+      "solid wood",
+      "armrest",
+      "slatted backrest",
+      "antique style"
+    ],
+    "source_attributes": {
+      "condition": [
+        "worn"
+      ],
+      "material": [
+        "wood"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/Rockingchair_01/Rockingchair_01_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/Rockingchair_01/Rockingchair_01_1k.gltf",
+        "source_md5": "be16c0788ccab5a881425e8b2857439d",
+        "sha256": "eb8c3a8f9c2c1bd6ca6d76804b8361dd0fd779498249d554536e5683e08f565b",
+        "bytes": 2712
+      },
+      {
+        "path": "raw/polyhaven/Rockingchair_01/textures/Rockingchair_01_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/Rockingchair_01/Rockingchair_01_diff_1k.jpg",
+        "source_md5": "39a5b09e0349f2dc6892d4c827c1cc45",
+        "sha256": "d42426fe153296909d45abcbc4e91a3410b90d5a9cd58f01b1fa9af93a712ef0",
+        "bytes": 138197
+      },
+      {
+        "path": "raw/polyhaven/Rockingchair_01/textures/Rockingchair_01_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/Rockingchair_01/Rockingchair_01_nor_gl_1k.jpg",
+        "source_md5": "35bb8e3e3395cd6e189110b1c04caf59",
+        "sha256": "225008fcb16b3ee3b16372b4085d60e20dd660ab30b6a489b77b7e25a874b391",
+        "bytes": 146964
+      },
+      {
+        "path": "raw/polyhaven/Rockingchair_01/textures/Rockingchair_01_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/Rockingchair_01/Rockingchair_01_arm_1k.jpg",
+        "source_md5": "a3c5ee77580f0d833d643394baa00716",
+        "sha256": "21c6a462d6865a6e839b7dfe966f845df885a6dfe3ad64b3a87438db1598cf5d",
+        "bytes": 125152
+      },
+      {
+        "path": "raw/polyhaven/Rockingchair_01/Rockingchair_01.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/Rockingchair_01/Rockingchair_01.bin",
+        "source_md5": "cd7cd396a8acd87802321d51cbe79725",
+        "sha256": "6c7c3c32a033a3697d9adf3e8c9d966265cf11b519717d92c1eb5a9cffe736e2",
+        "bytes": 391740
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_Shelf_01",
+    "source_asset_id": "Shelf_01",
+    "name": "Shelf 01",
+    "category": "shelf",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/Shelf_01",
+    "license": "CC0-1.0",
+    "authors": {
+      "Gabriel Radi膰": "All"
+    },
+    "model_path": "processed/models/Shelf_01.glb",
+    "preview_path": "processed/previews/Shelf_01.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "c3cb9cb8f254cdf423f8ed0b2950fbeda3b2001d5bd9e56c5baf1aedb6068275",
+    "model_bytes": 604600,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 1003.444,
+    "height_mm": 2080.31,
+    "depth_mm": 256.98,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      1003.443717956543,
+      256.9795063869833,
+      2080.310344696045
+    ],
+    "upstream_dimensions_sorted_relative_error": 0.0,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      -0.0,
+      -0.0,
+      -0.1284894142679036
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 182,
+    "embedded_image_count": 3,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "wood",
+      "shelf",
+      "furniture",
+      "storage",
+      "home",
+      "organization",
+      "display",
+      "wooden",
+      "bookcase",
+      "shelves",
+      "bookshelf",
+      "dirty",
+      "weathered",
+      "distressed",
+      "aged",
+      "simple"
+    ],
+    "source_attributes": {
+      "condition": [
+        "weathered"
+      ],
+      "material": [
+        "wood"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/Shelf_01/Shelf_01_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/Shelf_01/Shelf_01_1k.gltf",
+        "source_md5": "9e852782eeae96108206c888d2b68df1",
+        "sha256": "715bce6ff1886eccdd43d558f5cf9242a24396e0eb9e8ae391905186bb339e52",
+        "bytes": 2617
+      },
+      {
+        "path": "raw/polyhaven/Shelf_01/textures/Shelf_01_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/Shelf_01/Shelf_01_diff_1k.jpg",
+        "source_md5": "965ce260ce114308026fe98260cd482a",
+        "sha256": "875bb8110dec4f409d9127cba95f7c0ead02bdfeef6dd47232df939e4de35a5c",
+        "bytes": 153220
+      },
+      {
+        "path": "raw/polyhaven/Shelf_01/Shelf_01.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/Shelf_01/Shelf_01.bin",
+        "source_md5": "bf2ff8bef60025c079565fd1926b8476",
+        "sha256": "21ee76dda6320ba423e76d192cfd38885e334ae394c03978d092f96b508f175b",
+        "bytes": 12676
+      },
+      {
+        "path": "raw/polyhaven/Shelf_01/textures/Shelf_01_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/Shelf_01/Shelf_01_nor_gl_1k.jpg",
+        "source_md5": "3ccf77ba277b06f29e3e68233a83bae7",
+        "sha256": "c817d7966974be2da13e4b0a57918e8e142edc50eb41d438229c3bad70df0f91",
+        "bytes": 231393
+      },
+      {
+        "path": "raw/polyhaven/Shelf_01/textures/Shelf_01_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/Shelf_01/Shelf_01_arm_1k.jpg",
+        "source_md5": "b0044e2cc568cd2a7f906ca56f473542",
+        "sha256": "d5d180b15c48ed6ab7b27a663de8f399f813ed0c32ff2706520d677a1e387cdc",
+        "bytes": 205542
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_Sofa_01",
+    "source_asset_id": "Sofa_01",
+    "name": "Sofa 01",
+    "category": "sofa",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/Sofa_01",
+    "license": "CC0-1.0",
+    "authors": {
+      "Kirill Sannikov": "All"
+    },
+    "model_path": "processed/models/Sofa_01.glb",
+    "preview_path": "processed/previews/Sofa_01.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "0e27637e24d22c4fb396c4182709d67b77a7161f3cf1264bcd01bf52910f66c7",
+    "model_bytes": 517132,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 1571.468,
+    "height_mm": 796.515,
+    "depth_mm": 658.015,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      1571.4675784111023,
+      658.0145359039307,
+      796.515051391907
+    ],
+    "upstream_dimensions_sorted_relative_error": 0.0,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      -0.007622212171554565,
+      0.0005869903834536672,
+      0.032196372747421265
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 4101,
+    "embedded_image_count": 3,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "wood",
+      "prop",
+      "furniture",
+      "vintage",
+      "gothic",
+      "chair",
+      "couch",
+      "victorian",
+      "decorative"
+    ],
+    "source_attributes": {
+      "condition": [
+        "worn"
+      ],
+      "material": [
+        "wood",
+        "fabric"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/Sofa_01/Sofa_01_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/Sofa_01/Sofa_01_1k.gltf",
+        "source_md5": "b5f8106d38a9e8dcb52b883663bbeed1",
+        "sha256": "dc9d331a24fc8994606ae5a283826cb28feb3166782f59d006d0f10cc92cc830",
+        "bytes": 2636
+      },
+      {
+        "path": "raw/polyhaven/Sofa_01/textures/Sofa_01_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/Sofa_01/Sofa_01_diff_1k.jpg",
+        "source_md5": "a4d07c6c0fd696cb6fa4bd5bad1debc3",
+        "sha256": "1772047e7887a9ec44878e0720eda0829abfa744dec6ca03b492a31c4dc51cab",
+        "bytes": 134925
+      },
+      {
+        "path": "raw/polyhaven/Sofa_01/textures/Sofa_01_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/Sofa_01/Sofa_01_nor_gl_1k.jpg",
+        "source_md5": "7e4aca2b86e09375d25182c7bd4580db",
+        "sha256": "1d89009f9fba3b6967d63cb718606b3049d2423bc031da12ee228718a0571e84",
+        "bytes": 154517
+      },
+      {
+        "path": "raw/polyhaven/Sofa_01/Sofa_01.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/Sofa_01/Sofa_01.bin",
+        "source_md5": "77b6d42bd17eed825d5d65c769c71f0c",
+        "sha256": "c8af86de6db09a6d49703e0e51cf8acafa23fb2ee945e66a48225dced3a154e1",
+        "bytes": 111264
+      },
+      {
+        "path": "raw/polyhaven/Sofa_01/textures/Sofa_01_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/Sofa_01/Sofa_01_arm_1k.jpg",
+        "source_md5": "c7b757edd1f5fb506341be0063b9a3eb",
+        "sha256": "fc5db69e4cf5cf9f881b2d134fae69c4e3b1a96378f131752ef48060bf0c5e39",
+        "bytes": 114593
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_chinese_armchair",
+    "source_asset_id": "chinese_armchair",
+    "name": "Chinese Armchair",
+    "category": "armchair",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/chinese_armchair",
+    "license": "CC0-1.0",
+    "authors": {
+      "Kirill Sannikov": "All"
+    },
+    "model_path": "processed/models/chinese_armchair.glb",
+    "preview_path": "processed/previews/chinese_armchair.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "0ab35ff772fc2483a5d0212bc640bef6b8cff68eeeef3e6693fde5321a2abd4b",
+    "model_bytes": 1702420,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 848.275,
+    "height_mm": 1587.483,
+    "depth_mm": 788.663,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      848.2747673988342,
+      788.6627614498138,
+      1587.4828653213626
+    ],
+    "upstream_dimensions_sorted_relative_error": 0.0,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      -0.0007470250129699707,
+      2.7831065381178632e-05,
+      -0.006810203194618225
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 2675,
+    "embedded_image_count": 3,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "vintage",
+      "antique",
+      "ornate",
+      "chinese",
+      "asian",
+      "varnished",
+      "elegant",
+      "wooden",
+      "traditional"
+    ],
+    "source_attributes": {
+      "condition": [
+        "worn"
+      ],
+      "material": [
+        "wood"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/chinese_armchair/chinese_armchair_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/chinese_armchair/chinese_armchair_1k.gltf",
+        "source_md5": "ecad26c95dbf2c7e631f848711700678",
+        "sha256": "e0649ac9e63135627b824035e9a45a7c06411062589b971e633e5ab5f9e17f04",
+        "bytes": 2816
+      },
+      {
+        "path": "raw/polyhaven/chinese_armchair/textures/chinese_armchair_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/chinese_armchair/chinese_armchair_arm_1k.jpg",
+        "source_md5": "ed3bece412754abf3aa2c5f6bc6aa9de",
+        "sha256": "5daef0846dd4f4a32a50106ee12930e547c8a577d60687e6e88b370f0ed84d28",
+        "bytes": 618850
+      },
+      {
+        "path": "raw/polyhaven/chinese_armchair/textures/chinese_armchair_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/chinese_armchair/chinese_armchair_nor_gl_1k.jpg",
+        "source_md5": "ba905cf32062cf2869ec39f7adbb95b8",
+        "sha256": "8599f79dcd01b20ba4916a959a2e0dcf4beaa21597356acc6abe0c13cb330eff",
+        "bytes": 483304
+      },
+      {
+        "path": "raw/polyhaven/chinese_armchair/chinese_armchair.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/chinese_armchair/chinese_armchair.bin",
+        "source_md5": "7575b1f0e7de094e7c1cbebf610e5da0",
+        "sha256": "7e72b5360513057bdc453d6c03d5a837d32a8c9a2e6185f1b016c1bc62dc5b27",
+        "bytes": 81428
+      },
+      {
+        "path": "raw/polyhaven/chinese_armchair/textures/chinese_armchair_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/chinese_armchair/chinese_armchair_diff_1k.jpg",
+        "source_md5": "5ae99f09fe8a767d4ecd49c86539d46d",
+        "sha256": "41332d6df2c5abad15ba227382bda160e55e9c75f2b4ecc079f8171aecd8d689",
+        "bytes": 516908
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_chinese_cabinet",
+    "source_asset_id": "chinese_cabinet",
+    "name": "Chinese Cabinet",
+    "category": "cabinet",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/chinese_cabinet",
+    "license": "CC0-1.0",
+    "authors": {
+      "Kirill Sannikov": "All"
+    },
+    "model_path": "processed/models/chinese_cabinet.glb",
+    "preview_path": "processed/previews/chinese_cabinet.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "80eb21d1ca40cb447757b5130c88dec59eb1131555a8fe816b5eda8352981e66",
+    "model_bytes": 2337632,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 1262.496,
+    "height_mm": 2872.099,
+    "depth_mm": 545.21,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      1262.4960541725159,
+      545.2098548412323,
+      2872.0987772358058
+    ],
+    "upstream_dimensions_sorted_relative_error": 6.832764054763347e-09,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      0.001673966646194458,
+      4.253143197274767e-05,
+      -0.016777830198407173
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 15668,
+    "embedded_image_count": 3,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "old",
+      "wooden",
+      "vintage",
+      "antique",
+      "ornate",
+      "traditional",
+      "asian",
+      "elegant",
+      "ornamental"
+    ],
+    "source_attributes": {
+      "condition": [
+        "worn"
+      ],
+      "material": [
+        "wood",
+        "brass"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/chinese_cabinet/chinese_cabinet_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/chinese_cabinet/chinese_cabinet_1k.gltf",
+        "source_md5": "d805bdf4ffa5df0e8b5bd40d2b463d4c",
+        "sha256": "f7875e583eb73798eed01e1b466bb4c3bc76a46c6bbade39091a01e5ba561293",
+        "bytes": 8975
+      },
+      {
+        "path": "raw/polyhaven/chinese_cabinet/textures/chinese_cabinet_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/chinese_cabinet/chinese_cabinet_diff_1k.jpg",
+        "source_md5": "940dbb968436533fc5b5f54727c90fd0",
+        "sha256": "7552eb37f049d86d0ae210c43da5639265614466d3636682eb9d9b103e5fe07b",
+        "bytes": 613915
+      },
+      {
+        "path": "raw/polyhaven/chinese_cabinet/textures/chinese_cabinet_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/chinese_cabinet/chinese_cabinet_nor_gl_1k.jpg",
+        "source_md5": "307d1e6c77603c15d8d21de38b791464",
+        "sha256": "6c583a8eaf4d78561bbbb0107a85231173eb9290cc6c233dcf9877e3175017c2",
+        "bytes": 511060
+      },
+      {
+        "path": "raw/polyhaven/chinese_cabinet/textures/chinese_cabinet_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/chinese_cabinet/chinese_cabinet_arm_1k.jpg",
+        "source_md5": "dd5157ff4dd4c36359c2d912760d39a3",
+        "sha256": "c017dcd80a4a25535ac96c2f8a115a87be3f6b89d5ad153bd72e3a705f96107d",
+        "bytes": 714153
+      },
+      {
+        "path": "raw/polyhaven/chinese_cabinet/chinese_cabinet.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/chinese_cabinet/chinese_cabinet.bin",
+        "source_md5": "392eda89aa40550e7c193efd4075235a",
+        "sha256": "e0fa721a1536b426e70d2427f5068cd6b7467aac77cea92617862d05d981918f",
+        "bytes": 492960
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_chinese_sofa",
+    "source_asset_id": "chinese_sofa",
+    "name": "Chinese Sofa",
+    "category": "sofa",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/chinese_sofa",
+    "license": "CC0-1.0",
+    "authors": {
+      "Kirill Sannikov": "All"
+    },
+    "model_path": "processed/models/chinese_sofa.glb",
+    "preview_path": "processed/previews/chinese_sofa.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "1e803ad98985043766ecac4f8376e538d3761f6d42521547b2f3481b24a9c892",
+    "model_bytes": 1571188,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 2285.433,
+    "height_mm": 860.019,
+    "depth_mm": 968.851,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      2285.4329347610474,
+      968.8513875007629,
+      860.0191126264232
+    ],
+    "upstream_dimensions_sorted_relative_error": 0.0,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      0.0004757046699523926,
+      2.483498029448583e-08,
+      0.0006816983222961426
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 704,
+    "embedded_image_count": 3,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "vintage",
+      "antique",
+      "wooden",
+      "ornate",
+      "traditional",
+      "fancy"
+    ],
+    "source_attributes": {
+      "condition": [
+        "worn"
+      ],
+      "material": [
+        "wood"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/chinese_sofa/chinese_sofa_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/chinese_sofa/chinese_sofa_1k.gltf",
+        "source_md5": "6ccb6fbfbedbb2a5c3ded708448d0784",
+        "sha256": "33f9f1bf014bea843f24944ed5ed2b0de0ba0ba1728ddac85fc79eb5aa2e6dce",
+        "bytes": 2759
+      },
+      {
+        "path": "raw/polyhaven/chinese_sofa/textures/chinese_sofa_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/chinese_sofa/chinese_sofa_diff_1k.jpg",
+        "source_md5": "6c7f09885790b40d7b21df59ec2e9952",
+        "sha256": "fb512b25971ff1fa17d8049e9687fb232195b73fcf98ebf55e277df2d2d6bca3",
+        "bytes": 511164
+      },
+      {
+        "path": "raw/polyhaven/chinese_sofa/textures/chinese_sofa_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/chinese_sofa/chinese_sofa_arm_1k.jpg",
+        "source_md5": "dcd64dc00367f4dbfabd0d94eb18b5b0",
+        "sha256": "d0aabd7f28848c3f1189f768a50a29bc32ccdef2f557f91160080a47890be0f7",
+        "bytes": 555922
+      },
+      {
+        "path": "raw/polyhaven/chinese_sofa/chinese_sofa.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/chinese_sofa/chinese_sofa.bin",
+        "source_md5": "6d5166585d031df7e90cb264780ec5b8",
+        "sha256": "5e91e3bc0d8bed2c7260501feca7d24eb355f2477a3ad2ca5e782351616cca4f",
+        "bytes": 29824
+      },
+      {
+        "path": "raw/polyhaven/chinese_sofa/textures/chinese_sofa_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/chinese_sofa/chinese_sofa_nor_gl_1k.jpg",
+        "source_md5": "83753c91cce4ee813ef24a8863053d24",
+        "sha256": "6c7b73f4c1b38d8e26d35df1deb8f38af2f74fd08597a3a52645a41c6a417735",
+        "bytes": 472388
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_chinese_tea_table",
+    "source_asset_id": "chinese_tea_table",
+    "name": "Chinese Tea Table",
+    "category": "coffee_table",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/chinese_tea_table",
+    "license": "CC0-1.0",
+    "authors": {
+      "Kirill Sannikov": "All"
+    },
+    "model_path": "processed/models/chinese_tea_table.glb",
+    "preview_path": "processed/previews/chinese_tea_table.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "b98d739719392a18a8f6558d5ed1113e9b736b2bab7b00d79b21731030159e2a",
+    "model_bytes": 1580388,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 841.315,
+    "height_mm": 498.641,
+    "depth_mm": 835.622,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      841.3148820400238,
+      835.6219828128815,
+      498.6410439014435
+    ],
+    "upstream_dimensions_sorted_relative_error": 0.0,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      0.0008902996778488159,
+      -0.0,
+      0.0006194561719894409
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 2508,
+    "embedded_image_count": 3,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "vintage",
+      "antique",
+      "old",
+      "wooden",
+      "ornate",
+      "traditional"
+    ],
+    "source_attributes": {
+      "condition": [
+        "worn"
+      ],
+      "material": [
+        "wood"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/chinese_tea_table/chinese_tea_table_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/chinese_tea_table/chinese_tea_table_1k.gltf",
+        "source_md5": "742112f24cdcf8c357aacc8f255664e5",
+        "sha256": "4c1987aa1978c4fe1dfd0f5f10739df399346fc4c9373315d8d4b0cc798d8b01",
+        "bytes": 2793
+      },
+      {
+        "path": "raw/polyhaven/chinese_tea_table/textures/chinese_tea_table_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/chinese_tea_table/chinese_tea_table_arm_1k.jpg",
+        "source_md5": "c87805fa83058c7d08056446b0589f7e",
+        "sha256": "5d93474de9d0560d8a9a46a498fc6f64fb030f9cec6e6eb8f95c36dfc8e09e94",
+        "bytes": 504125
+      },
+      {
+        "path": "raw/polyhaven/chinese_tea_table/chinese_tea_table.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/chinese_tea_table/chinese_tea_table.bin",
+        "source_md5": "8dcb405bff1e509e3c846278ce2f3ad9",
+        "sha256": "e584dbcf8d654c662ef849ef6111b11dc9f87e9a7ea8dc98c7d32dbfe10b7e52",
+        "bytes": 78792
+      },
+      {
+        "path": "raw/polyhaven/chinese_tea_table/textures/chinese_tea_table_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/chinese_tea_table/chinese_tea_table_nor_gl_1k.jpg",
+        "source_md5": "f3398ab803461ee8247b05ad9b9992ba",
+        "sha256": "4b6eea9bbf344912313a1046fd3e5183970a907b6dbd55d1ef465e27dd2d0859",
+        "bytes": 548449
+      },
+      {
+        "path": "raw/polyhaven/chinese_tea_table/textures/chinese_tea_table_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/chinese_tea_table/chinese_tea_table_diff_1k.jpg",
+        "source_md5": "eec9f6e3d2c3f7335abd4760e3a30ba2",
+        "sha256": "beaff8984d8fd498b7cfecc2e5decd4db3ba6c87583acc41d18767326cb3ae3c",
+        "bytes": 447131
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_coffee_table_round_01",
+    "source_asset_id": "coffee_table_round_01",
+    "name": "Coffee Table Round 01",
+    "category": "coffee_table",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/coffee_table_round_01",
+    "license": "CC0-1.0",
+    "authors": {
+      "Ulan Cabanilla": "All"
+    },
+    "model_path": "processed/models/coffee_table_round_01.glb",
+    "preview_path": "processed/previews/coffee_table_round_01.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "68f2c9ff24c41cefeabbc10e4543f065d3b9ac98bf099728fdee56babf5f6a45",
+    "model_bytes": 1562272,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 1301.301,
+    "height_mm": 491.009,
+    "depth_mm": 1301.302,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      1301.3009428977966,
+      1301.3015985488892,
+      491.0094439983368
+    ],
+    "upstream_dimensions_sorted_relative_error": 0.0,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      8.940696716308594e-08,
+      0.0013774335384368896,
+      -0.0
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 4044,
+    "embedded_image_count": 3,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "modern",
+      "marble",
+      "tea",
+      "coffee",
+      "metal",
+      "sleek",
+      "contemporary",
+      "cocktail"
+    ],
+    "source_attributes": {
+      "condition": [
+        "clean"
+      ],
+      "material": [
+        "stone",
+        "metal"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/coffee_table_round_01/coffee_table_round_01_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/coffee_table_round_01/coffee_table_round_01_1k.gltf",
+        "source_md5": "fa8772e8942e1863230b6745105c9a8e",
+        "sha256": "58fe785584f8999f760e590b04ce74f83962d42c9440ab9415910f63a31165dc",
+        "bytes": 2776
+      },
+      {
+        "path": "raw/polyhaven/coffee_table_round_01/textures/coffee_table_round_01_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/coffee_table_round_01/coffee_table_round_01_diff_1k.jpg",
+        "source_md5": "601977ab1b864988194728e1dda076a8",
+        "sha256": "422b4a24a4459e1fd6d121aae4f1097dd3e467c7a8036bb1d003f955302f1d28",
+        "bytes": 447037
+      },
+      {
+        "path": "raw/polyhaven/coffee_table_round_01/textures/coffee_table_round_01_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/coffee_table_round_01/coffee_table_round_01_arm_1k.jpg",
+        "source_md5": "b44425836ab0c932fe4ff136ce6f2fe8",
+        "sha256": "7221b03af475555092abd650798facbb945bf4acf02e48f8697f012d8515bf52",
+        "bytes": 721708
+      },
+      {
+        "path": "raw/polyhaven/coffee_table_round_01/coffee_table_round_01.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/coffee_table_round_01/coffee_table_round_01.bin",
+        "source_md5": "a664b067fa0ae9b6e0a8fa5878986816",
+        "sha256": "9605a0c156bff4ec87e8717a79978d85d4e750d21b3193a3d08bed16e8666035",
+        "bytes": 131112
+      },
+      {
+        "path": "raw/polyhaven/coffee_table_round_01/textures/coffee_table_round_01_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/coffee_table_round_01/coffee_table_round_01_nor_gl_1k.jpg",
+        "source_md5": "81a9885a83ff0b259514e8bce38b6b69",
+        "sha256": "a5912db1918b1ec925efb19179675cafc8832b082f80b2ea35c3a58b45e1aec4",
+        "bytes": 260520
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_drawer_cabinet",
+    "source_asset_id": "drawer_cabinet",
+    "name": "Drawer Cabinet",
+    "category": "cabinet",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/drawer_cabinet",
+    "license": "CC0-1.0",
+    "authors": {
+      "Ulan Cabanilla": "All"
+    },
+    "model_path": "processed/models/drawer_cabinet.glb",
+    "preview_path": "processed/previews/drawer_cabinet.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "5ed254037b5256f328515f5c0d3972f1489b0764b2d6617569bce023b145a5ff",
+    "model_bytes": 1140332,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 1141.078,
+    "height_mm": 1881.254,
+    "depth_mm": 488.085,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      1141.0778760910034,
+      488.08445036411285,
+      1881.253957748413
+    ],
+    "upstream_dimensions_sorted_relative_error": 5.190080120488016e-07,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      1.1920928955078125e-07,
+      -0.0,
+      0.0036108791828155518
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 26406,
+    "embedded_image_count": 3,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "wood",
+      "furniture",
+      "shelf",
+      "drawer",
+      "metal",
+      "modern"
+    ],
+    "source_attributes": {
+      "condition": [
+        "clean"
+      ],
+      "material": [
+        "wood",
+        "metal"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/drawer_cabinet/drawer_cabinet_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/drawer_cabinet/drawer_cabinet_1k.gltf",
+        "source_md5": "4ee75e02d0a2c383c61950c614d78cf8",
+        "sha256": "899581e6a041644139a138f909c6ba001684cc55b5d1702e08f01094e20d0617",
+        "bytes": 8031
+      },
+      {
+        "path": "raw/polyhaven/drawer_cabinet/textures/drawer_cabinet_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/drawer_cabinet/drawer_cabinet_arm_1k.jpg",
+        "source_md5": "ce7a177bd99d4aa87a95f84dab5eb7a6",
+        "sha256": "8f8eefaaadcee247204c5658c2f4d9cac598222336918b01eb48e4190317788c",
+        "bytes": 124942
+      },
+      {
+        "path": "raw/polyhaven/drawer_cabinet/textures/drawer_cabinet_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/drawer_cabinet/drawer_cabinet_nor_gl_1k.jpg",
+        "source_md5": "151891cdd9db147046f951525f849f7f",
+        "sha256": "26d0904ad341353e095ef619d157a5f416be014500475976f1144827cc849faa",
+        "bytes": 61593
+      },
+      {
+        "path": "raw/polyhaven/drawer_cabinet/textures/drawer_cabinet_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/drawer_cabinet/drawer_cabinet_diff_1k.jpg",
+        "source_md5": "bb0311ae77d1779bc5b37396a029f6f3",
+        "sha256": "0fe270409b54a5609662dda14afaa94af4bd3267dcd83dd824e05fa880d96efb",
+        "bytes": 150011
+      },
+      {
+        "path": "raw/polyhaven/drawer_cabinet/drawer_cabinet.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/drawer_cabinet/drawer_cabinet.bin",
+        "source_md5": "1f0d93118e12628d0b79c7dd8d11b80e",
+        "sha256": "3460b9fe00ffbe779b7f7f2de3b159c214cfec275c06194add0eebd951ee14e9",
+        "bytes": 798852
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_gothic_coffee_table",
+    "source_asset_id": "gothic_coffee_table",
+    "name": "Gothic Coffee Table",
+    "category": "coffee_table",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/gothic_coffee_table",
+    "license": "CC0-1.0",
+    "authors": {
+      "Ulan Cabanilla": "All"
+    },
+    "model_path": "processed/models/gothic_coffee_table.glb",
+    "preview_path": "processed/previews/gothic_coffee_table.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "f2f9fdc394c0bcca37a2c357ed3ecfb8434d5ffbbc3199799a8d59a026f8f868",
+    "model_bytes": 3265820,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 1443.09,
+    "height_mm": 558.773,
+    "depth_mm": 1443.09,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      1443.0902004241943,
+      1443.0902004241943,
+      558.7729810795281
+    ],
+    "upstream_dimensions_sorted_relative_error": 0.0,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      -0.000270843505859375,
+      -0.0002775193133857101,
+      -0.0005499720573425293
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 23836,
+    "embedded_image_count": 3,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "vintage",
+      "antique",
+      "old",
+      "wooden",
+      "gothic",
+      "medieval",
+      "dark decor"
+    ],
+    "source_attributes": {
+      "condition": [
+        "worn"
+      ],
+      "material": [
+        "wood"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/gothic_coffee_table/gothic_coffee_table_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/gothic_coffee_table/gothic_coffee_table_1k.gltf",
+        "source_md5": "feca9bfb96010e34e735627fe158b201",
+        "sha256": "4368fa0a0d81cd8651bfcc8a6b48bf43576e1549770c1057eea71eea3d99d54b",
+        "bytes": 2842
+      },
+      {
+        "path": "raw/polyhaven/gothic_coffee_table/textures/gothic_coffee_table_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/gothic_coffee_table/gothic_coffee_table_nor_gl_1k.jpg",
+        "source_md5": "9dc3073a3b210554be58db913116ffdb",
+        "sha256": "9c066c887be6cb5ccf78979a631e48a5b6f58adbde5b1395481055f20b98d2a0",
+        "bytes": 836624
+      },
+      {
+        "path": "raw/polyhaven/gothic_coffee_table/textures/gothic_coffee_table_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/gothic_coffee_table/gothic_coffee_table_diff_1k.jpg",
+        "source_md5": "b21f338ebdfe546f17d2d5dd16150725",
+        "sha256": "d3e2f091c0010da1f5e5e974ee09c2639674a78231a8b920b2f95098be8a588d",
+        "bytes": 618166
+      },
+      {
+        "path": "raw/polyhaven/gothic_coffee_table/textures/gothic_coffee_table_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/gothic_coffee_table/gothic_coffee_table_arm_1k.jpg",
+        "source_md5": "c950595ab24ec4ad0aafe24c08aec004",
+        "sha256": "da1f1a69554aa5b5fd571f32ac54a9fe2e9cafc235a00a901e887537ce0174dc",
+        "bytes": 965587
+      },
+      {
+        "path": "raw/polyhaven/gothic_coffee_table/gothic_coffee_table.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/gothic_coffee_table/gothic_coffee_table.bin",
+        "source_md5": "d8c45735d6effb7fc383dba30c35012d",
+        "sha256": "6f138d3da02e5d70b2cd0932b015d72a306b9f91acbbc8e6abdb2f4982eddb40",
+        "bytes": 843496
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_industrial_coffee_table",
+    "source_asset_id": "industrial_coffee_table",
+    "name": "Industrial Coffee Table",
+    "category": "coffee_table",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/industrial_coffee_table",
+    "license": "CC0-1.0",
+    "authors": {
+      "Ulan Cabanilla": "All"
+    },
+    "model_path": "processed/models/industrial_coffee_table.glb",
+    "preview_path": "processed/previews/industrial_coffee_table.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "35d8010cf57d5ceea7c7e9f03cdc42a54a7c1e8ab30d75ea2420d1614963b9b3",
+    "model_bytes": 3243772,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 778.264,
+    "height_mm": 638.422,
+    "depth_mm": 757.928,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      778.2644629478455,
+      757.9282224178314,
+      638.4220765778537
+    ],
+    "upstream_dimensions_sorted_relative_error": 3.932077142163187e-08,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      -0.0034081339836120605,
+      1.668930025289228e-07,
+      1.4901161193847656e-07
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 41300,
+    "embedded_image_count": 3,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "metal",
+      "industrial",
+      "steel",
+      "rustic",
+      "workshop",
+      "metal frame",
+      "garage",
+      "urban loft"
+    ],
+    "source_attributes": {
+      "condition": [
+        "worn"
+      ],
+      "material": [
+        "steel",
+        "wood"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/industrial_coffee_table/industrial_coffee_table_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/industrial_coffee_table/industrial_coffee_table_1k.gltf",
+        "source_md5": "d6ca679d734d048126e431841052259d",
+        "sha256": "e692c26fa4c9179ee2f3f9caa95900e271de4f549e3eabf2b4a3aa1217eaae78",
+        "bytes": 2993
+      },
+      {
+        "path": "raw/polyhaven/industrial_coffee_table/textures/industrial_coffee_table_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/industrial_coffee_table/industrial_coffee_table_nor_gl_1k.jpg",
+        "source_md5": "1687add9668f8d58742a0067b065c2d7",
+        "sha256": "a18b3b4509827c84cfa30df0e0d9c207dd09c71d52fc54e34a6d6898d17af968",
+        "bytes": 531606
+      },
+      {
+        "path": "raw/polyhaven/industrial_coffee_table/textures/industrial_coffee_table_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/industrial_coffee_table/industrial_coffee_table_diff_1k.jpg",
+        "source_md5": "166f1baae88b779ea5b4bc2be1a54d60",
+        "sha256": "964a1b580877e607ee8facef0be6fe963db847e160676e28942b2f28c3a8b5b7",
+        "bytes": 574858
+      },
+      {
+        "path": "raw/polyhaven/industrial_coffee_table/textures/industrial_coffee_table_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/industrial_coffee_table/industrial_coffee_table_arm_1k.jpg",
+        "source_md5": "4af902436180f17a44dae2fb5dee58f6",
+        "sha256": "6a10ab1b6bb62907654966e39cf53d95a31f93a9cf4c9e0d408cbca1f175ef2c",
+        "bytes": 800264
+      },
+      {
+        "path": "raw/polyhaven/industrial_coffee_table/industrial_coffee_table.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/industrial_coffee_table/industrial_coffee_table.bin",
+        "source_md5": "e6cc0b48e09c9b4aea5bd477ebda08a7",
+        "sha256": "a38f03b1a036deb7c959abca531ae2b22c3392de66cba8e9dab2f6a59ab05eca",
+        "bytes": 1335000
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_mid_century_lounge_chair",
+    "source_asset_id": "mid_century_lounge_chair",
+    "name": "Mid Century Lounge Chair",
+    "category": "armchair",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/mid_century_lounge_chair",
+    "license": "CC0-1.0",
+    "authors": {
+      "Kuutti Siitonen": "All"
+    },
+    "model_path": "processed/models/mid_century_lounge_chair.glb",
+    "preview_path": "processed/previews/mid_century_lounge_chair.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "d445ea6ff5ad3ea678c180ae3183cc8b3e82a1eb151d72f365fcf37ada65e190",
+    "model_bytes": 2086116,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 1008.614,
+    "height_mm": 1169.085,
+    "depth_mm": 1190.311,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      1008.6143612861633,
+      1190.310776233673,
+      1169.0847246776136
+    ],
+    "upstream_dimensions_sorted_relative_error": 0.0,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      -2.9802322387695312e-08,
+      5.651812884366336e-08,
+      0.06620714068412781
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 6148,
+    "embedded_image_count": 3,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "wooden",
+      "leather",
+      "couch",
+      "lounge",
+      "architecture",
+      "modern",
+      "interior design",
+      "home decor",
+      "living room",
+      "comfort",
+      "stylish",
+      "recliner",
+      "retro",
+      "classy"
+    ],
+    "source_attributes": {
+      "condition": [
+        "worn"
+      ],
+      "material": [
+        "leather",
+        "wood",
+        "metal"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/mid_century_lounge_chair/mid_century_lounge_chair_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/mid_century_lounge_chair/mid_century_lounge_chair_1k.gltf",
+        "source_md5": "474bed17d25e794f39e60d1748dafcc6",
+        "sha256": "47c5769ee4dfa350e2506a6a76d8ef58a1e1060344acda35c503ddff46645d26",
+        "bytes": 2884
+      },
+      {
+        "path": "raw/polyhaven/mid_century_lounge_chair/textures/mid_century_lounge_chair_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/mid_century_lounge_chair/mid_century_lounge_chair_nor_gl_1k.jpg",
+        "source_md5": "2caa258ba4e50a6be6533ac9ff96587e",
+        "sha256": "4bb4b325e4478f5d9063e4e061cf34bc6ccc3067abda608c1548c4a367f50397",
+        "bytes": 648960
+      },
+      {
+        "path": "raw/polyhaven/mid_century_lounge_chair/textures/mid_century_lounge_chair_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/mid_century_lounge_chair/mid_century_lounge_chair_diff_1k.jpg",
+        "source_md5": "7ab2bc1b5ac85a7664a82eedf6c85dde",
+        "sha256": "ae1f80e964426b49f70b402403c444a655bdaa363d8d43fee5b57fcb3b492c54",
+        "bytes": 627298
+      },
+      {
+        "path": "raw/polyhaven/mid_century_lounge_chair/textures/mid_century_lounge_chair_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/mid_century_lounge_chair/mid_century_lounge_chair_arm_1k.jpg",
+        "source_md5": "a0a839c4ae18eb06a5ececc72c0e066f",
+        "sha256": "9fa5fa4af5306576a3a27886767feec5431f41d94df9119f2ccced8f0b024f1a",
+        "bytes": 636493
+      },
+      {
+        "path": "raw/polyhaven/mid_century_lounge_chair/mid_century_lounge_chair.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/mid_century_lounge_chair/mid_century_lounge_chair.bin",
+        "source_md5": "bded2f717792aefe222dca07633b94ce",
+        "sha256": "26346cdc548ad74b1b6db5734c8c231c3c740656b012de2cc3bbc2b3b975200c",
+        "bytes": 171384
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_modern_arm_chair_01",
+    "source_asset_id": "modern_arm_chair_01",
+    "name": "Modern Arm Chair 01",
+    "category": "armchair",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/modern_arm_chair_01",
+    "license": "CC0-1.0",
+    "authors": {
+      "Vibrant Nordic": "All"
+    },
+    "model_path": "processed/models/modern_arm_chair_01.glb",
+    "preview_path": "processed/previews/modern_arm_chair_01.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "0263803eb4754ebcad1363d00afae601d5f6662649663284aece2600eaa4f6aa",
+    "model_bytes": 2696340,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 820.344,
+    "height_mm": 1022.852,
+    "depth_mm": 986.562,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      820.3444182872772,
+      986.5616858005524,
+      1022.8520567470696
+    ],
+    "upstream_dimensions_sorted_relative_error": 0.0,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      -0.003363475203514099,
+      -0.0003815953677985817,
+      0.08217088878154755
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 8916,
+    "embedded_image_count": 6,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "wood",
+      "leather",
+      "fancy",
+      "modern",
+      "chair",
+      "contemporary",
+      "wooden",
+      "lounge"
+    ],
+    "source_attributes": {
+      "condition": [
+        "worn"
+      ],
+      "material": [
+        "wood",
+        "leather"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/modern_arm_chair_01/modern_arm_chair_01_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/modern_arm_chair_01/modern_arm_chair_01_1k.gltf",
+        "source_md5": "a5ce303bc2962fe98b733fcdfa5a842b",
+        "sha256": "d31be520add2603447b43acedbdacf9516866f7c89e9ea9230c9edbac9cc6e6a",
+        "bytes": 5121
+      },
+      {
+        "path": "raw/polyhaven/modern_arm_chair_01/textures/modern_arm_chair_01_pillow_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modern_arm_chair_01/modern_arm_chair_01_pillow_nor_gl_1k.jpg",
+        "source_md5": "6804f34108fcc755f0c84dd3c638270c",
+        "sha256": "2717b9d22e1d3533e3c7436a0230b00b1d25bf396246679825c8db08edaba0a8",
+        "bytes": 302377
+      },
+      {
+        "path": "raw/polyhaven/modern_arm_chair_01/textures/modern_arm_chair_01_legs_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modern_arm_chair_01/modern_arm_chair_01_legs_nor_gl_1k.jpg",
+        "source_md5": "7cece7eccf75588af5b5df9b095d2c97",
+        "sha256": "af328e8530884907cf0d38a675338bb4e2b03c56ed2d21eb5abf505bb67c11de",
+        "bytes": 560864
+      },
+      {
+        "path": "raw/polyhaven/modern_arm_chair_01/textures/modern_arm_chair_01_pillow_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modern_arm_chair_01/modern_arm_chair_01_pillow_arm_1k.jpg",
+        "source_md5": "772495ddbf26ca3de4b31298f10113b9",
+        "sha256": "fec333290ddfd70e78428251874d30d5410d6d0a956dd84922b0d3f3596e4b7a",
+        "bytes": 321223
+      },
+      {
+        "path": "raw/polyhaven/modern_arm_chair_01/textures/modern_arm_chair_01_legs_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modern_arm_chair_01/modern_arm_chair_01_legs_diff_1k.jpg",
+        "source_md5": "778f1897e07ff81b2bc338f3d463ad1f",
+        "sha256": "6291421a8db6cd9bbbc8c141aa087465d698427249f813d24c6e5ccdbf0bf536",
+        "bytes": 460937
+      },
+      {
+        "path": "raw/polyhaven/modern_arm_chair_01/textures/modern_arm_chair_01_legs_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modern_arm_chair_01/modern_arm_chair_01_legs_arm_1k.jpg",
+        "source_md5": "9c69cb001df175bddf6d1c2436567fb7",
+        "sha256": "c76b65200a52cf649a865baf7f879dc34277b923edaac7ec8164eaf7c51c935d",
+        "bytes": 577931
+      },
+      {
+        "path": "raw/polyhaven/modern_arm_chair_01/modern_arm_chair_01.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/modern_arm_chair_01/modern_arm_chair_01.bin",
+        "source_md5": "5a8f2ea1c79ea484140e484b2a621670",
+        "sha256": "8755f2f498c0bb165660379d1b045465751c16bbeaf553c8dd76bb14c16d1ff6",
+        "bytes": 240728
+      },
+      {
+        "path": "raw/polyhaven/modern_arm_chair_01/textures/modern_arm_chair_01_pillow_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modern_arm_chair_01/modern_arm_chair_01_pillow_diff_1k.jpg",
+        "source_md5": "2e4f64c633c3cb1656ad3eabdb3f0607",
+        "sha256": "f1935436b460ad5c03ac7ff9d1e1b4aaedcdc9a503d79c257beb8cdac2e9e1f7",
+        "bytes": 228851
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_modern_coffee_table_01",
+    "source_asset_id": "modern_coffee_table_01",
+    "name": "Modern Coffee Table 01",
+    "category": "coffee_table",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/modern_coffee_table_01",
+    "license": "CC0-1.0",
+    "authors": {
+      "Amin": "All"
+    },
+    "model_path": "processed/models/modern_coffee_table_01.glb",
+    "preview_path": "processed/previews/modern_coffee_table_01.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "9692eaf35b2f41fe7641782380cb9d985f39f362eac272648f2d9316b426219f",
+    "model_bytes": 1330424,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 600.0,
+    "height_mm": 390.0,
+    "depth_mm": 1201.83,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      1201.8300294876099,
+      600.0000834465027,
+      389.99998569488525
+    ],
+    "upstream_dimensions_sorted_relative_error": 9.934106080954422e-08,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      -1.1920928955078125e-07,
+      0.00011512637138366699,
+      -0.0002459883689880371
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 4504,
+    "embedded_image_count": 3,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "table",
+      "contemporary",
+      "modern",
+      "rectangular",
+      "stone",
+      "wood",
+      "deco",
+      "clean"
+    ],
+    "source_attributes": {
+      "condition": [
+        "clean"
+      ],
+      "material": [
+        "stone",
+        "wood"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/modern_coffee_table_01/modern_coffee_table_01_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/modern_coffee_table_01/modern_coffee_table_01_1k.gltf",
+        "source_md5": "f1c079ab5bc307630258cf3b40910511",
+        "sha256": "a35d811da4c174d0c888f23353dda21501763dbf5505c66f57fef4b3f613e50c",
+        "bytes": 2771
+      },
+      {
+        "path": "raw/polyhaven/modern_coffee_table_01/modern_coffee_table_01.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/modern_coffee_table_01/modern_coffee_table_01.bin",
+        "source_md5": "6e8f65bff935af308eab9eff062f6daa",
+        "sha256": "b8fe0d49041b879a5d5962685a39e3daf009679f7b6a88ced1347e6dc6c0851e",
+        "bytes": 154864
+      },
+      {
+        "path": "raw/polyhaven/modern_coffee_table_01/textures/modern_coffee_table_01_rough_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modern_coffee_table_01/modern_coffee_table_01_rough_1k.jpg",
+        "source_md5": "6ccbc448fa0e2bed32eac52511e84e2c",
+        "sha256": "8013b48b0ebb845907f840afcae9cbc915a5205ac82ed99cbba31771febacb0f",
+        "bytes": 403959
+      },
+      {
+        "path": "raw/polyhaven/modern_coffee_table_01/textures/modern_coffee_table_01_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modern_coffee_table_01/modern_coffee_table_01_diff_1k.jpg",
+        "source_md5": "356014e027b59c21b3c99ac112e645f9",
+        "sha256": "069b89dd3ef03ddcbb7b2e6a124b1903aa7848394509121aa19f87bd0ef0218c",
+        "bytes": 410569
+      },
+      {
+        "path": "raw/polyhaven/modern_coffee_table_01/textures/modern_coffee_table_01_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modern_coffee_table_01/modern_coffee_table_01_nor_gl_1k.jpg",
+        "source_md5": "d263e6131abc518760d6771390bc5066",
+        "sha256": "43e0d317d0f8418b130c0058c645225ee83b808b1dc0e5e7236bead3bdd77139",
+        "bytes": 359134
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_modern_coffee_table_02",
+    "source_asset_id": "modern_coffee_table_02",
+    "name": "Modern Coffee Table 02",
+    "category": "coffee_table",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/modern_coffee_table_02",
+    "license": "CC0-1.0",
+    "authors": {
+      "Amin": "All"
+    },
+    "model_path": "processed/models/modern_coffee_table_02.glb",
+    "preview_path": "processed/previews/modern_coffee_table_02.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "4756325d02dbbdd90f38529b543506abe257d5005d4251fa636e063296dd2c0e",
+    "model_bytes": 2954060,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 1199.111,
+    "height_mm": 369.25,
+    "depth_mm": 1199.657,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      1199.1113424301147,
+      1199.6567845344543,
+      369.2496716976166
+    ],
+    "upstream_dimensions_sorted_relative_error": 0.0,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      -0.0009863972663879395,
+      0.00019758939743041992,
+      -0.0025074779987335205
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 13645,
+    "embedded_image_count": 6,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "contemporary",
+      "modern",
+      "rectangular",
+      "stone",
+      "wood",
+      "deco",
+      "clean"
+    ],
+    "source_attributes": {
+      "condition": [
+        "clean"
+      ],
+      "material": [
+        "stone",
+        "wood"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/modern_coffee_table_02/modern_coffee_table_02_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/modern_coffee_table_02/modern_coffee_table_02_1k.gltf",
+        "source_md5": "6840f431aa9f2b9096b32416a5b198f3",
+        "sha256": "59acb8abec936a74d52d83f9208aa0314accc4363586b5b94f89ab2d8b85ad76",
+        "bytes": 4979
+      },
+      {
+        "path": "raw/polyhaven/modern_coffee_table_02/textures/modern_coffee_table_02_base_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modern_coffee_table_02/modern_coffee_table_02_base_nor_gl_1k.jpg",
+        "source_md5": "02cffd400d675f77bb326fd9752b87c9",
+        "sha256": "ade042c3569e7f6bc43b80b2ebf99959a60628f64cec5712c402c01fcee78bfd",
+        "bytes": 119341
+      },
+      {
+        "path": "raw/polyhaven/modern_coffee_table_02/textures/modern_coffee_table_02_wood_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modern_coffee_table_02/modern_coffee_table_02_wood_nor_gl_1k.jpg",
+        "source_md5": "b11514f206d8821dbcd0f2456aa58599",
+        "sha256": "99f6ceeb329280464f27bd246a926021df9ab3ce33512d70eb2f6c7a55a4963f",
+        "bytes": 340139
+      },
+      {
+        "path": "raw/polyhaven/modern_coffee_table_02/textures/modern_coffee_table_02_base_rough_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modern_coffee_table_02/modern_coffee_table_02_base_rough_1k.jpg",
+        "source_md5": "f75772d1830611aee991d33eaaa1205d",
+        "sha256": "2f9b6626c474b8a6205bdd49f0312a914e3dd2eadba4e94d5273cd0c29750ea7",
+        "bytes": 220354
+      },
+      {
+        "path": "raw/polyhaven/modern_coffee_table_02/modern_coffee_table_02.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/modern_coffee_table_02/modern_coffee_table_02.bin",
+        "source_md5": "f75c0faa37dfa96b99cee9639a36e0a5",
+        "sha256": "548427547069b51ef667ef34278d767fe529f383c1b62dbfb1cff97697bd974c",
+        "bytes": 882992
+      },
+      {
+        "path": "raw/polyhaven/modern_coffee_table_02/textures/modern_coffee_table_02_wood_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modern_coffee_table_02/modern_coffee_table_02_wood_diff_1k.jpg",
+        "source_md5": "7cce41236a1d4240d9ce3498dcad9776",
+        "sha256": "305e52392c98f226e5a5c543258c45052061a1caf154a47d5fe21c9e4c69b216",
+        "bytes": 710960
+      },
+      {
+        "path": "raw/polyhaven/modern_coffee_table_02/textures/modern_coffee_table_02_base_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modern_coffee_table_02/modern_coffee_table_02_base_diff_1k.jpg",
+        "source_md5": "338b60530424c187a35be09d9022cc39",
+        "sha256": "51a59d991f668466126e43abae9f8572e907df55ac6de3ce36ce0580aebb92d4",
+        "bytes": 153120
+      },
+      {
+        "path": "raw/polyhaven/modern_coffee_table_02/textures/modern_coffee_table_02_wood_rough_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modern_coffee_table_02/modern_coffee_table_02_wood_rough_1k.jpg",
+        "source_md5": "3c2a2064d34cc7aa1e6629fef9879364",
+        "sha256": "11de733bd4e7564aeec8e9d5c65fd878fe0e82add127fd358ecc6b0bf02b3ba3",
+        "bytes": 523840
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_modern_wooden_cabinet",
+    "source_asset_id": "modern_wooden_cabinet",
+    "name": "Modern Wooden Cabinet",
+    "category": "cabinet",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/modern_wooden_cabinet",
+    "license": "CC0-1.0",
+    "authors": {
+      "Patrik Pangerl": "All"
+    },
+    "model_path": "processed/models/modern_wooden_cabinet.glb",
+    "preview_path": "processed/previews/modern_wooden_cabinet.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "72f955e9af126d8916cd6001871cf2f2a16e8b49cef8402f3466fe07f872f441",
+    "model_bytes": 2850988,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 2440.0,
+    "height_mm": 680.143,
+    "depth_mm": 520.0,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      2440.0004148483276,
+      520.0000107288361,
+      680.1425069570541
+    ],
+    "upstream_dimensions_sorted_relative_error": 0.0,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      -5.960464477539063e-08,
+      -1.6823410987854004e-05,
+      0.01000000536441803
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 24976,
+    "embedded_image_count": 3,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "cabinet",
+      "wood",
+      "modern",
+      "minimalist",
+      "interrior",
+      "living room",
+      "contemporary",
+      "design"
+    ],
+    "source_attributes": {
+      "condition": [
+        "clean"
+      ],
+      "material": [
+        "wood",
+        "metal"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/modern_wooden_cabinet/modern_wooden_cabinet_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/modern_wooden_cabinet/modern_wooden_cabinet_1k.gltf",
+        "source_md5": "623406579e948eb75ff52ec1498085c8",
+        "sha256": "9c0765063297018e854d11bc27da3cbab3c33904a3be2f5c15f46635df7e857f",
+        "bytes": 10960
+      },
+      {
+        "path": "raw/polyhaven/modern_wooden_cabinet/modern_wooden_cabinet.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/modern_wooden_cabinet/modern_wooden_cabinet.bin",
+        "source_md5": "0a619e6311e6b04b92e9f226f3d0978d",
+        "sha256": "04e664a95f52c48d0caa8c3148ab7e4ad4a0554b37a2a5c0e39dc6ed6c46cafe",
+        "bytes": 1170136
+      },
+      {
+        "path": "raw/polyhaven/modern_wooden_cabinet/textures/modern_wooden_cabinet_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modern_wooden_cabinet/modern_wooden_cabinet_nor_gl_1k.jpg",
+        "source_md5": "62477103e44ac1b2746c9bb201f89e06",
+        "sha256": "f08b3d0619a60e2eac19c9d9c0d7dc0e3eb75af2692d84b32ddfd12d857c15ab",
+        "bytes": 430053
+      },
+      {
+        "path": "raw/polyhaven/modern_wooden_cabinet/textures/modern_wooden_cabinet_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modern_wooden_cabinet/modern_wooden_cabinet_arm_1k.jpg",
+        "source_md5": "bb821c89979d89ce2421df13af67fb07",
+        "sha256": "fad6df227ec6d431387b10bd244a0d087e89e6dce0b1c732df5c87f0a1def3f5",
+        "bytes": 574020
+      },
+      {
+        "path": "raw/polyhaven/modern_wooden_cabinet/textures/modern_wooden_cabinet_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/modern_wooden_cabinet/modern_wooden_cabinet_diff_1k.jpg",
+        "source_md5": "9c7e897741dd9aea6382f04e710d739b",
+        "sha256": "e494b67439da73775413d6aaea369ae05a8ebd7705be8df08dbcd2ee4fd545e4",
+        "bytes": 670353
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_painted_wooden_cabinet",
+    "source_asset_id": "painted_wooden_cabinet",
+    "name": "Painted Wooden Cabinet",
+    "category": "cabinet",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/painted_wooden_cabinet",
+    "license": "CC0-1.0",
+    "authors": {
+      "Kirill Sannikov": "All"
+    },
+    "model_path": "processed/models/painted_wooden_cabinet.glb",
+    "preview_path": "processed/previews/painted_wooden_cabinet.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "581bc0afa20f6ecec6b435468d08df129cf9c50f0e32db85039c255863ca4502",
+    "model_bytes": 1858236,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 1194.675,
+    "height_mm": 1181.87,
+    "depth_mm": 616.636,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      1194.674551486969,
+      616.6356205940247,
+      1181.8697528215125
+    ],
+    "upstream_dimensions_sorted_relative_error": 0.0,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      -0.0026324689388275146,
+      0.0003708676667883992,
+      -0.025925427675247192
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 2227,
+    "embedded_image_count": 3,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "old",
+      "worn",
+      "antique",
+      "wooden",
+      "vintage",
+      "colonial",
+      "farmhouse",
+      "storage",
+      "aged",
+      "rustic",
+      "weathered"
+    ],
+    "source_attributes": {
+      "condition": [
+        "weathered"
+      ],
+      "material": [
+        "wood"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/painted_wooden_cabinet/painted_wooden_cabinet_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/painted_wooden_cabinet/painted_wooden_cabinet_1k.gltf",
+        "source_md5": "43f7a37a61773dadbafd46ab51b97c9e",
+        "sha256": "ce04543cdb10e05fe9c2cc08e9c118b16c1c717a07bcbfac9b99859465c8d1ed",
+        "bytes": 9253
+      },
+      {
+        "path": "raw/polyhaven/painted_wooden_cabinet/textures/painted_wooden_cabinet_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/painted_wooden_cabinet/painted_wooden_cabinet_diff_1k.jpg",
+        "source_md5": "cab7d6088249cb2687e0c79b2cdf62c5",
+        "sha256": "2dbed9f9ec8e49fc2e87de8cd86e2029a80e9001b5102b4e47c7dfa913f34d89",
+        "bytes": 688654
+      },
+      {
+        "path": "raw/polyhaven/painted_wooden_cabinet/textures/painted_wooden_cabinet_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/painted_wooden_cabinet/painted_wooden_cabinet_arm_1k.jpg",
+        "source_md5": "616ce8f1c545087c463b79e7bea952a6",
+        "sha256": "34e0bcb00a62704d85161d41e844e798d4f894e416e7769079d50a21d561d171",
+        "bytes": 622122
+      },
+      {
+        "path": "raw/polyhaven/painted_wooden_cabinet/textures/painted_wooden_cabinet_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/painted_wooden_cabinet/painted_wooden_cabinet_nor_gl_1k.jpg",
+        "source_md5": "e39fdc39e2fce036fd7a904ea3862671",
+        "sha256": "e94edf68faeaf68016c28da9b9f299bb38c57463acd94130ecf98dcaef790016",
+        "bytes": 463678
+      },
+      {
+        "path": "raw/polyhaven/painted_wooden_cabinet/painted_wooden_cabinet.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/painted_wooden_cabinet/painted_wooden_cabinet.bin",
+        "source_md5": "c86f9e483a0da1d5a9f68b08099a4166",
+        "sha256": "1023d773d84c42f2709ec297247d90b0e2833e37241fbe852e2f33b41ae10cda",
+        "bytes": 78072
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_painted_wooden_cabinet_02",
+    "source_asset_id": "painted_wooden_cabinet_02",
+    "name": "Painted Wooden Cabinet 02",
+    "category": "cabinet",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/painted_wooden_cabinet_02",
+    "license": "CC0-1.0",
+    "authors": {
+      "Kirill Sannikov": "All"
+    },
+    "model_path": "processed/models/painted_wooden_cabinet_02.glb",
+    "preview_path": "processed/previews/painted_wooden_cabinet_02.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "86418884eb5de35973fba827f53eab5b87cc4607a91814ac6c09ed2daeb94f62",
+    "model_bytes": 1593996,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 996.933,
+    "height_mm": 2568.573,
+    "depth_mm": 722.343,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      996.9334602355957,
+      729.429692029953,
+      2568.572537857108
+    ],
+    "upstream_dimensions_sorted_relative_error": 0.009715316703264724,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      2.9802322387695312e-08,
+      0.0010216402588412166,
+      -0.038987261119676986
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 966,
+    "embedded_image_count": 3,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "storage",
+      "cabinet",
+      "wood",
+      "vintage",
+      "rustic",
+      "worn",
+      "carpentry",
+      "aged",
+      "bookcase"
+    ],
+    "source_attributes": {
+      "condition": [
+        "worn"
+      ],
+      "material": [
+        "wood"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/painted_wooden_cabinet_02/painted_wooden_cabinet_02_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/painted_wooden_cabinet_02/painted_wooden_cabinet_02_1k.gltf",
+        "source_md5": "ab85664b46355d3fc455c115a2290d3e",
+        "sha256": "a4b697adf7a24a081b8452f5a7d482765e2139cf2a6687a4cbb2a7b8bea24325",
+        "bytes": 6085
+      },
+      {
+        "path": "raw/polyhaven/painted_wooden_cabinet_02/textures/painted_wooden_cabinet_02_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/painted_wooden_cabinet_02/painted_wooden_cabinet_02_arm_1k.jpg",
+        "source_md5": "e4e6a5138eb5b78e591cec0dc39f3e6d",
+        "sha256": "0cf309449d4b0c1ecb0a3adbc17837b6f77f36cb45c1f0ceb6013b07fac44214",
+        "bytes": 463616
+      },
+      {
+        "path": "raw/polyhaven/painted_wooden_cabinet_02/painted_wooden_cabinet_02.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/painted_wooden_cabinet_02/painted_wooden_cabinet_02.bin",
+        "source_md5": "00b400f46d4a95cc51abfb1361b30184",
+        "sha256": "7acab853993b90cafc9c7550a7035397dfeb4bbda7f0dba8759d40a971c755ca",
+        "bytes": 39332
+      },
+      {
+        "path": "raw/polyhaven/painted_wooden_cabinet_02/textures/painted_wooden_cabinet_02_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/painted_wooden_cabinet_02/painted_wooden_cabinet_02_nor_gl_1k.jpg",
+        "source_md5": "0af50294d21a0686a4bdfd4ef82da5c1",
+        "sha256": "46e8df6be06eca30a05d0e90f12e8799e6e11c73ab7c910cc3541b0833ee0103",
+        "bytes": 526407
+      },
+      {
+        "path": "raw/polyhaven/painted_wooden_cabinet_02/textures/painted_wooden_cabinet_02_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/painted_wooden_cabinet_02/painted_wooden_cabinet_02_diff_1k.jpg",
+        "source_md5": "2f41fe301044d30f852ca526334b77a4",
+        "sha256": "ddb2cace49bb05b8e03e6c205223a69f95e5eef84ec66e97e5d0e49d2a1af09e",
+        "bytes": 560790
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_painted_wooden_shelves",
+    "source_asset_id": "painted_wooden_shelves",
+    "name": "Painted Wooden Shelves",
+    "category": "shelf",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/painted_wooden_shelves",
+    "license": "CC0-1.0",
+    "authors": {
+      "Kirill Sannikov": "All"
+    },
+    "model_path": "processed/models/painted_wooden_shelves.glb",
+    "preview_path": "processed/previews/painted_wooden_shelves.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "f8c3e884009d46ccfa1fd35a09c5dd5c697bb827c7bfc39186cb077b2da2617a",
+    "model_bytes": 2109784,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 511.116,
+    "height_mm": 1125.072,
+    "depth_mm": 367.095,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      511.115700006485,
+      367.09491535348883,
+      1125.072093855124
+    ],
+    "upstream_dimensions_sorted_relative_error": 0.0,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      5.05298376083374e-05,
+      0.000963064085226506,
+      -0.18354744650759702
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 524,
+    "embedded_image_count": 3,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "old",
+      "wooden",
+      "worn",
+      "vintage",
+      "farmhouse",
+      "aged"
+    ],
+    "source_attributes": {
+      "condition": [
+        "worn"
+      ],
+      "material": [
+        "wood"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/painted_wooden_shelves/painted_wooden_shelves_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/painted_wooden_shelves/painted_wooden_shelves_1k.gltf",
+        "source_md5": "00af5933b9b5abbc4cad88eede28225c",
+        "sha256": "f4d9ffc04ad1e9ce3155522ac962c336bf1fa74b4a27b8a5fd4c8bdb81c2e8f6",
+        "bytes": 2858
+      },
+      {
+        "path": "raw/polyhaven/painted_wooden_shelves/textures/painted_wooden_shelves_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/painted_wooden_shelves/painted_wooden_shelves_nor_gl_1k.jpg",
+        "source_md5": "2a1f2f0dd9fd556ca8809fd7a133bf3d",
+        "sha256": "9dcd7e3783da2a2cd44cd4f7a78ac976d2866e02d8dd0799d180d0ab746ae239",
+        "bytes": 843073
+      },
+      {
+        "path": "raw/polyhaven/painted_wooden_shelves/painted_wooden_shelves.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/painted_wooden_shelves/painted_wooden_shelves.bin",
+        "source_md5": "964b327c4effc165624d160cdf2ee96c",
+        "sha256": "894c032cda1c5668014c87b15ddcc42bccaede15e369e59f628d5219d38edf5f",
+        "bytes": 20680
+      },
+      {
+        "path": "raw/polyhaven/painted_wooden_shelves/textures/painted_wooden_shelves_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/painted_wooden_shelves/painted_wooden_shelves_arm_1k.jpg",
+        "source_md5": "e97521e691aa2c5c15fa5634e7bdef8a",
+        "sha256": "256c99e04dc99961ad08e085b01adc03641e861f66d4b325b1acb0f822d1e9a9",
+        "bytes": 734506
+      },
+      {
+        "path": "raw/polyhaven/painted_wooden_shelves/textures/painted_wooden_shelves_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/painted_wooden_shelves/painted_wooden_shelves_diff_1k.jpg",
+        "source_md5": "42dc5354c0626a2e13619f8df6fc260f",
+        "sha256": "430aef90494d0aa16c354bb4d39fc1a768dd822a0da7e6b746f1891a0cb7cf3a",
+        "bytes": 509573
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_painted_wooden_sofa",
+    "source_asset_id": "painted_wooden_sofa",
+    "name": "Painted Wooden Sofa",
+    "category": "sofa",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/painted_wooden_sofa",
+    "license": "CC0-1.0",
+    "authors": {
+      "Kirill Sannikov": "All"
+    },
+    "model_path": "processed/models/painted_wooden_sofa.glb",
+    "preview_path": "processed/previews/painted_wooden_sofa.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "7e04471fe53b03c7b805394152ca9e063009386deb0df91063cae6de8d516154",
+    "model_bytes": 2099476,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 2451.711,
+    "height_mm": 1281.034,
+    "depth_mm": 787.316,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      2451.7107009887695,
+      787.3162031173706,
+      1281.0335159301758
+    ],
+    "upstream_dimensions_sorted_relative_error": 0.0,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      -0.0,
+      -0.0,
+      0.02142617106437683
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 5826,
+    "embedded_image_count": 3,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "chair",
+      "outdoor",
+      "couch",
+      "wooden",
+      "vintage",
+      "aged"
+    ],
+    "source_attributes": {
+      "condition": [
+        "worn"
+      ],
+      "material": [
+        "wood",
+        "fabric"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/painted_wooden_sofa/painted_wooden_sofa_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/painted_wooden_sofa/painted_wooden_sofa_1k.gltf",
+        "source_md5": "2648c458e6639629c5dcb67fcbf07e6c",
+        "sha256": "6c164f83190b71473ceca47d857c504b972fabf22c8de329747fbefb3a95b070",
+        "bytes": 2816
+      },
+      {
+        "path": "raw/polyhaven/painted_wooden_sofa/textures/painted_wooden_sofa_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/painted_wooden_sofa/painted_wooden_sofa_nor_gl_1k.jpg",
+        "source_md5": "d63b547e22137b1cb1bdd2d02ebc1a24",
+        "sha256": "bbe3726de2ecfc07180262d310906ed7a35d2757f21de3669436daec2424502a",
+        "bytes": 618152
+      },
+      {
+        "path": "raw/polyhaven/painted_wooden_sofa/textures/painted_wooden_sofa_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/painted_wooden_sofa/painted_wooden_sofa_diff_1k.jpg",
+        "source_md5": "cfd6c30bb84de70eac4762a2cce0b85e",
+        "sha256": "b00059b1a037120881f26d5fbffca55892e5e4a2df56be28a4c9fdfdcbbf99aa",
+        "bytes": 618261
+      },
+      {
+        "path": "raw/polyhaven/painted_wooden_sofa/painted_wooden_sofa.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/painted_wooden_sofa/painted_wooden_sofa.bin",
+        "source_md5": "2f100a29d9fad10d59edf90e5ce0ef03",
+        "sha256": "e1889d4b622f1063ab4f09ee458b7c5a1c80b7284c693eae012d093c66465838",
+        "bytes": 186956
+      },
+      {
+        "path": "raw/polyhaven/painted_wooden_sofa/textures/painted_wooden_sofa_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/painted_wooden_sofa/painted_wooden_sofa_arm_1k.jpg",
+        "source_md5": "039a05b49390d6851a8eac18a30a8fca",
+        "sha256": "60ff6f84d6729574d99dd29e2aaacafdf8cac5244672cb5b29b94bcb218eda3a",
+        "bytes": 674221
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_side_table_01",
+    "source_asset_id": "side_table_01",
+    "name": "Side Table 01",
+    "category": "side_table",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/side_table_01",
+    "license": "CC0-1.0",
+    "authors": {
+      "James Ray Cock": "All"
+    },
+    "model_path": "processed/models/side_table_01.glb",
+    "preview_path": "processed/previews/side_table_01.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "d03e83c82e89a9157f456e99d20c4843a26c9ccb4373f1b4bf19e45c1dc34004",
+    "model_bytes": 504400,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 550.0,
+    "height_mm": 550.662,
+    "depth_mm": 450.0,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      550.0000715255737,
+      450.00001788139343,
+      550.6622816901654
+    ],
+    "upstream_dimensions_sorted_relative_error": 0.0,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      -0.0,
+      0.0023564721923321486,
+      -0.0
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 2756,
+    "embedded_image_count": 3,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "table",
+      "wood",
+      "minimalist",
+      "modern",
+      "decor",
+      "living room",
+      "bedroom",
+      "shelf",
+      "contemporary",
+      "interior",
+      "home",
+      "wooden"
+    ],
+    "source_attributes": {
+      "condition": [
+        "clean"
+      ],
+      "material": [
+        "wood"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/side_table_01/side_table_01_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/side_table_01/side_table_01_1k.gltf",
+        "source_md5": "4f72b88ca0cb4329d09d87788df495f3",
+        "sha256": "a441125a4f660a23a31601aedd9aa379c6febf2b35171c08814187b5ec5a3309",
+        "bytes": 2700
+      },
+      {
+        "path": "raw/polyhaven/side_table_01/side_table_01.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/side_table_01/side_table_01.bin",
+        "source_md5": "344e55dbf8dc39b1bca0ca66b956a8dc",
+        "sha256": "b1f2a0519fc61cded1fdeac8169ac5b077836052671cd39a35cb56576c9aa11e",
+        "bytes": 117784
+      },
+      {
+        "path": "raw/polyhaven/side_table_01/textures/side_table_01_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/side_table_01/side_table_01_diff_1k.jpg",
+        "source_md5": "858d3b2c5f7f4c733a5c6a32183b11de",
+        "sha256": "e0d9f2f91bede592868f9b89d141f5e8542524b8356f1b68f0f5c6bb6447731d",
+        "bytes": 183315
+      },
+      {
+        "path": "raw/polyhaven/side_table_01/textures/side_table_01_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/side_table_01/side_table_01_nor_gl_1k.jpg",
+        "source_md5": "9252911489f1024faad8bb1443d31d9e",
+        "sha256": "14850c49ae1e06cf8701eac4fed2163c2ad075978d2878fcaa079dffe1fd1195",
+        "bytes": 71744
+      },
+      {
+        "path": "raw/polyhaven/side_table_01/textures/side_table_01_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/side_table_01/side_table_01_arm_1k.jpg",
+        "source_md5": "79435258a51369b735349763689f1cba",
+        "sha256": "ebaef894800faa2e09df7001c1536055c97648428410a9de76bb191aec00c014",
+        "bytes": 129725
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_side_table_tall_01",
+    "source_asset_id": "side_table_tall_01",
+    "name": "Side Table Tall 01",
+    "category": "side_table",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/side_table_tall_01",
+    "license": "CC0-1.0",
+    "authors": {
+      "James Ray Cock": "All"
+    },
+    "model_path": "processed/models/side_table_tall_01.glb",
+    "preview_path": "processed/previews/side_table_tall_01.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "d0174a17f33203a8570de87951d37196b7f9d32655e5601b29cba29a177e14c2",
+    "model_bytes": 1553748,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 383.983,
+    "height_mm": 761.151,
+    "depth_mm": 383.983,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      383.98271799087524,
+      383.98271799087524,
+      761.1514969321433
+    ],
+    "upstream_dimensions_sorted_relative_error": 0.0,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      -0.0,
+      2.1163985366001725e-05,
+      -1.4901161193847656e-08
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 6408,
+    "embedded_image_count": 3,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "vintage",
+      "antique",
+      "worn",
+      "old",
+      "wood",
+      "side table",
+      "side",
+      "table"
+    ],
+    "source_attributes": {
+      "condition": [
+        "worn"
+      ],
+      "material": [
+        "wood",
+        "brass"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/side_table_tall_01/side_table_tall_01_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/side_table_tall_01/side_table_tall_01_1k.gltf",
+        "source_md5": "d3e52d74a2ad02b6ef370413cdb1077c",
+        "sha256": "27afd6422e5108dd4356b4d780b48164e7809c33c9d6fb134a6953d779b8ebf4",
+        "bytes": 2828
+      },
+      {
+        "path": "raw/polyhaven/side_table_tall_01/textures/side_table_tall_01_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/side_table_tall_01/side_table_tall_01_nor_gl_1k.jpg",
+        "source_md5": "dedcdfecc3281d13e7772bb922c69df5",
+        "sha256": "3f6e2ef7c974cfb215ba025834d9a377020a583595120c8f5ad0f3f94e21b494",
+        "bytes": 337331
+      },
+      {
+        "path": "raw/polyhaven/side_table_tall_01/textures/side_table_tall_01_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/side_table_tall_01/side_table_tall_01_diff_1k.jpg",
+        "source_md5": "284b8474573e3f2896c7a44cc3421a3f",
+        "sha256": "608703b1b5d183ab0d6cd7f4b68a857397f12296b3e8a428950a35cda3207c44",
+        "bytes": 473325
+      },
+      {
+        "path": "raw/polyhaven/side_table_tall_01/textures/side_table_tall_01_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/side_table_tall_01/side_table_tall_01_arm_1k.jpg",
+        "source_md5": "391b484069c6c25de1a3fb4ff5904052",
+        "sha256": "5bbe29bb1bb2bb66c3ab3dcddc78338f4eea85cfb7a7c8816b5345246b096e6c",
+        "bytes": 557625
+      },
+      {
+        "path": "raw/polyhaven/side_table_tall_01/side_table_tall_01.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/side_table_tall_01/side_table_tall_01.bin",
+        "source_md5": "b115af1aab6ce6d3f639c37447d9d2b4",
+        "sha256": "38e09f46bb073b033aad56657f2ba2d8ae783513eb779d5a0bcbc7988991dd18",
+        "bytes": 183536
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_small_wooden_table_01",
+    "source_asset_id": "small_wooden_table_01",
+    "name": "Small Wooden Table 01",
+    "category": "side_table",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/small_wooden_table_01",
+    "license": "CC0-1.0",
+    "authors": {
+      "Ulan Cabanilla": "All"
+    },
+    "model_path": "processed/models/small_wooden_table_01.glb",
+    "preview_path": "processed/previews/small_wooden_table_01.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "5bdbd296161016a4566753d8a440d24311cca561e12d5bd86fb562f5abfe34f2",
+    "model_bytes": 413880,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 916.188,
+    "height_mm": 533.086,
+    "depth_mm": 439.963,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      916.1878228187561,
+      439.96262550354004,
+      533.0857671797276
+    ],
+    "upstream_dimensions_sorted_relative_error": 0.0,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      -0.0,
+      3.725290298461914e-09,
+      7.69197940826416e-05
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 3410,
+    "embedded_image_count": 3,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "vintage",
+      "wood",
+      "small",
+      "table",
+      "wooden"
+    ],
+    "source_attributes": {
+      "condition": [
+        "worn"
+      ],
+      "material": [
+        "wood"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/small_wooden_table_01/small_wooden_table_01_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/small_wooden_table_01/small_wooden_table_01_1k.gltf",
+        "source_md5": "716b66952dc473d09a3ac5f48ef50a68",
+        "sha256": "2a33fb09785a9553c3cd4d0c5f8b874bb0fb9f26c8ef2613b65607524411f352",
+        "bytes": 2764
+      },
+      {
+        "path": "raw/polyhaven/small_wooden_table_01/textures/small_wooden_table_01_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/small_wooden_table_01/small_wooden_table_01_arm_1k.jpg",
+        "source_md5": "a208088048520cc6d774316c3b49cd53",
+        "sha256": "e1d01aaf54338b61f224e8b08c5b9e9879126ae3908a92cb8ad161bf54078c34",
+        "bytes": 154335
+      },
+      {
+        "path": "raw/polyhaven/small_wooden_table_01/small_wooden_table_01.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/small_wooden_table_01/small_wooden_table_01.bin",
+        "source_md5": "d4384b662a532853084edd70adb16ed5",
+        "sha256": "f0ca88dac6cf094e1ba260ee1bc21756a84a27b5456bcf45bda2227819458d84",
+        "bytes": 92428
+      },
+      {
+        "path": "raw/polyhaven/small_wooden_table_01/textures/small_wooden_table_01_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/small_wooden_table_01/small_wooden_table_01_diff_1k.jpg",
+        "source_md5": "cc2a3aad1992a1cb09dd407def42d102",
+        "sha256": "ef587bffaf9f65ec81e0777fa6f25d835ed354cef055669c8a783086fd45b9dd",
+        "bytes": 138301
+      },
+      {
+        "path": "raw/polyhaven/small_wooden_table_01/textures/small_wooden_table_01_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/small_wooden_table_01/small_wooden_table_01_nor_gl_1k.jpg",
+        "source_md5": "f0165b5497307f371746815d7bd5d526",
+        "sha256": "7f675805966ce02cd7678687c4fc86c0dfe4b20106486bb0c772143ea8ca3b4b",
+        "bytes": 26935
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_sofa_02",
+    "source_asset_id": "sofa_02",
+    "name": "Sofa 02",
+    "category": "sofa",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/sofa_02",
+    "license": "CC0-1.0",
+    "authors": {
+      "Kirill Sannikov": "All"
+    },
+    "model_path": "processed/models/sofa_02.glb",
+    "preview_path": "processed/previews/sofa_02.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "7b4ace0b95985e33c4ee3c71690fc2d68932750b9b2c6afaa3ba4adc05e6d3c7",
+    "model_bytes": 425720,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 1807.167,
+    "height_mm": 709.489,
+    "depth_mm": 817.751,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      1807.1673512458801,
+      817.7513778209686,
+      709.4888985157013
+    ],
+    "upstream_dimensions_sorted_relative_error": 4.2005339970849137e-08,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      -0.00026732211699709296,
+      -0.00020572543144226074,
+      0.06882279366254807
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 2728,
+    "embedded_image_count": 3,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "wood",
+      "furniture",
+      "chair",
+      "prop",
+      "couch",
+      "leather",
+      "fabric"
+    ],
+    "source_attributes": {
+      "condition": [
+        "worn"
+      ],
+      "material": [
+        "leather",
+        "wood",
+        "fabric"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/sofa_02/sofa_02_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/sofa_02/sofa_02_1k.gltf",
+        "source_md5": "ec2590dc8433a523d0fe9e507766c16f",
+        "sha256": "5df114209f9b956ccd4831eaeef469a81339ab371d0056eb6d5d29eee08eb431",
+        "bytes": 4183
+      },
+      {
+        "path": "raw/polyhaven/sofa_02/textures/sofa_02_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/sofa_02/sofa_02_diff_1k.jpg",
+        "source_md5": "0452c7d8dd3ef414d5ed3055085028a1",
+        "sha256": "4ff65c782578b52eee89cb96cc4e258ce1b6848e1a7655019af1f7207c749840",
+        "bytes": 86514
+      },
+      {
+        "path": "raw/polyhaven/sofa_02/textures/sofa_02_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/sofa_02/sofa_02_arm_1k.jpg",
+        "source_md5": "78799d978a1117ba83dbffed9af0fa33",
+        "sha256": "f2813f32cd9ec42a9080590d0953ac9e272d9baa0b22fdb5910bf325157393c6",
+        "bytes": 121752
+      },
+      {
+        "path": "raw/polyhaven/sofa_02/textures/sofa_02_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/sofa_02/sofa_02_nor_gl_1k.jpg",
+        "source_md5": "968528a369bced172d34275dba5aebf1",
+        "sha256": "c97a359703a8ce1cee62cbd9dc4013b611d821afb7769810983b464ebc5d0cfe",
+        "bytes": 139858
+      },
+      {
+        "path": "raw/polyhaven/sofa_02/sofa_02.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/sofa_02/sofa_02.bin",
+        "source_md5": "024d6f57a7c2ee7915430cd6e1c2651e",
+        "sha256": "cb337e03211be0309afa1ded2b6cbb2d402c0f794aaf8828fba559d27a42d3f5",
+        "bytes": 74864
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_sofa_03",
+    "source_asset_id": "sofa_03",
+    "name": "Sofa 03",
+    "category": "sofa",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/sofa_03",
+    "license": "CC0-1.0",
+    "authors": {
+      "Fran Calvente": "All"
+    },
+    "model_path": "processed/models/sofa_03.glb",
+    "preview_path": "processed/previews/sofa_03.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "32344a9bbcc6b81067789564546468eb64bfab04c0a96b6479819018e4391f2d",
+    "model_bytes": 818292,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 2731.177,
+    "height_mm": 1118.264,
+    "depth_mm": 925.084,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      2731.17733001709,
+      925.0842034816742,
+      1118.2640366605483
+    ],
+    "upstream_dimensions_sorted_relative_error": 0.0,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      -0.0,
+      -0.0006283945986069739,
+      0.0013414472341537476
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 8004,
+    "embedded_image_count": 4,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "vintage",
+      "chair",
+      "couch",
+      "seat",
+      "fancy",
+      "mansion",
+      "manor",
+      "victorian",
+      "antique",
+      "leather"
+    ],
+    "source_attributes": {
+      "condition": [
+        "worn"
+      ],
+      "material": [
+        "leather",
+        "wood",
+        "fabric"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/sofa_03/sofa_03_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/sofa_03/sofa_03_1k.gltf",
+        "source_md5": "27f31e0500c2dd83a21fd3339ade7821",
+        "sha256": "123f491bef4e9bda153bda770a5d12810bfc9b87ce56aa5973aed041ea17fd92",
+        "bytes": 4465
+      },
+      {
+        "path": "raw/polyhaven/sofa_03/textures/sofa_03_rough_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/sofa_03/sofa_03_rough_1k.jpg",
+        "source_md5": "c3fe733eb2cef0424d5530e067518d60",
+        "sha256": "b03b45c92365cddf787db158d7499915d6ba0d67ec51947453f6598f51361e47",
+        "bytes": 170206
+      },
+      {
+        "path": "raw/polyhaven/sofa_03/sofa_03.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/sofa_03/sofa_03.bin",
+        "source_md5": "aeebfb9aed3b40300b0fb73f0e27830e",
+        "sha256": "e524350933d3d2a84c28f13bc042888a4768adeef88d630111015caede1c2e98",
+        "bytes": 228984
+      },
+      {
+        "path": "raw/polyhaven/sofa_03/textures/sofa_03_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/sofa_03/sofa_03_diff_1k.jpg",
+        "source_md5": "1f33a1431d98e1560a04b661e786b45b",
+        "sha256": "c0bc221e4cacc3de75aff7744dab1600d008bcf70b5c67fb10ad6847b695a84e",
+        "bytes": 151815
+      },
+      {
+        "path": "raw/polyhaven/sofa_03/textures/sofa_03_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/sofa_03/sofa_03_nor_gl_1k.jpg",
+        "source_md5": "dec3ec9d5d1ad2abf260e58b67e5cd0e",
+        "sha256": "b961f9e9f38233bd58cdc5275614d3a1b37d5304f5ab86fd19d110657d386025",
+        "bytes": 112563
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_wooden_bookshelf_worn",
+    "source_asset_id": "wooden_bookshelf_worn",
+    "name": "Wooden Bookshelf Worn",
+    "category": "shelf",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/wooden_bookshelf_worn",
+    "license": "CC0-1.0",
+    "authors": {
+      "Ulan Cabanilla": "All"
+    },
+    "model_path": "processed/models/wooden_bookshelf_worn.glb",
+    "preview_path": "processed/previews/wooden_bookshelf_worn.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "a0675dfc2297d3de7fc4ce66533ef18aaa118cd449b5c338fccaf6aade26a0ab",
+    "model_bytes": 2776284,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 1373.952,
+    "height_mm": 2063.442,
+    "depth_mm": 581.302,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      1373.95179271698,
+      581.3020169734955,
+      2063.442051410675
+    ],
+    "upstream_dimensions_sorted_relative_error": 0.0,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      -0.0,
+      5.960464477539063e-08,
+      1.4901161193847656e-08
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 10106,
+    "embedded_image_count": 3,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "old",
+      "wooden",
+      "wood",
+      "worn",
+      "garage",
+      "shed",
+      "rustic",
+      "antique",
+      "distressed",
+      "aged",
+      "weathered",
+      "bookcase",
+      "shelves",
+      "carpentry",
+      "vintage",
+      "storage"
+    ],
+    "source_attributes": {
+      "condition": [
+        "worn"
+      ],
+      "material": [
+        "wood",
+        "metal"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/wooden_bookshelf_worn/wooden_bookshelf_worn_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/wooden_bookshelf_worn/wooden_bookshelf_worn_1k.gltf",
+        "source_md5": "f8bb25dfb3c646e5c4f420d800276928",
+        "sha256": "a1c5b3f1e71ae0b5eb73047e8097bceaa5f17e5d2d0d7ae1b8053d5ec0878fc6",
+        "bytes": 2849
+      },
+      {
+        "path": "raw/polyhaven/wooden_bookshelf_worn/textures/wooden_bookshelf_worn_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_bookshelf_worn/wooden_bookshelf_worn_nor_gl_1k.jpg",
+        "source_md5": "0e6f33c00eec432dd17178a4e5feb4f2",
+        "sha256": "90ffb1b3f7bb638d5a7e1a2b244a260d623e314a6010a6b8c23c57203e510ac9",
+        "bytes": 993276
+      },
+      {
+        "path": "raw/polyhaven/wooden_bookshelf_worn/wooden_bookshelf_worn.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/wooden_bookshelf_worn/wooden_bookshelf_worn.bin",
+        "source_md5": "3842de1943f58cdafb3a25d384b2400f",
+        "sha256": "170758113b50132380ab46943f6eab18f2714460dead065aae37241a94abf0f9",
+        "bytes": 267964
+      },
+      {
+        "path": "raw/polyhaven/wooden_bookshelf_worn/textures/wooden_bookshelf_worn_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_bookshelf_worn/wooden_bookshelf_worn_arm_1k.jpg",
+        "source_md5": "7252efe4bd18f6dfdc014a9f4ccdf065",
+        "sha256": "41b3aca38fb55cb300d971016a597c80425da3744a6d33d82fe78f9dbe609eaa",
+        "bytes": 713979
+      },
+      {
+        "path": "raw/polyhaven/wooden_bookshelf_worn/textures/wooden_bookshelf_worn_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_bookshelf_worn/wooden_bookshelf_worn_diff_1k.jpg",
+        "source_md5": "8f92c92e6473010e7df9b11f32d1234a",
+        "sha256": "970f60178decadd0d8fb1e5872f718350a49b027fd69469210c41ead350cba56",
+        "bytes": 799126
+      }
+    ]
+  },
+  {
+    "asset_id": "ph_wooden_display_shelves_01",
+    "source_asset_id": "wooden_display_shelves_01",
+    "name": "Wooden Display Shelves 01",
+    "category": "shelf",
+    "category_basis": "curated_selection_from_source_name",
+    "source_provider": "Poly Haven",
+    "source_url": "https://polyhaven.com/a/wooden_display_shelves_01",
+    "license": "CC0-1.0",
+    "authors": {
+      "James Ray Cock": "All"
+    },
+    "model_path": "processed/models/wooden_display_shelves_01.glb",
+    "preview_path": "processed/previews/wooden_display_shelves_01.png",
+    "preview_kind": "self_rendered_untextured_geometry",
+    "model_sha256": "d8a4ec80350224c3dfbe0bdf8f290e411a7aa0391a6623e639082462db161e52",
+    "model_bytes": 468532,
+    "texture_resolution": "1k",
+    "coordinate_system": "right_handed_Y_up",
+    "model_unit": "meter",
+    "width_mm": 371.51,
+    "height_mm": 1556.184,
+    "depth_mm": 1077.761,
+    "dimension_basis": "glTF_geometry_bounds_assuming_spec_meters_not_manufacturer_measurement",
+    "upstream_dimensions_raw": [
+      1077.760934829712,
+      371.50970101356506,
+      1556.1838150024414
+    ],
+    "upstream_dimensions_sorted_relative_error": 1.6043899960828818e-07,
+    "dimension_review_status": "geometry_consistent_with_upstream_not_physical_verified",
+    "normalization_translation_m": [
+      -0.0,
+      -0.0004363059997558594,
+      -0.0
+    ],
+    "normalization_scale": 1,
+    "front_yaw_deg": null,
+    "front_review_status": "pending",
+    "triangle_count": 3174,
+    "embedded_image_count": 3,
+    "source_materials_preserved": true,
+    "style": null,
+    "style_review_status": "pending",
+    "source_tags": [
+      "modern",
+      "wood",
+      "pine",
+      "square",
+      "display",
+      "shelf",
+      "bookshelf"
+    ],
+    "source_attributes": {
+      "condition": [
+        "clean"
+      ],
+      "material": [
+        "wood"
+      ]
+    },
+    "brand": null,
+    "retail_sku": null,
+    "purchase_url": null,
+    "price_fen": null,
+    "commercial_binding_status": "unbound_asset_not_retail_product",
+    "retrieved_at_utc": "2026-11-10T03:20:57.290944+00:00",
+    "source_files": [
+      {
+        "path": "raw/polyhaven/wooden_display_shelves_01/wooden_display_shelves_01_1k.gltf",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/wooden_display_shelves_01/wooden_display_shelves_01_1k.gltf",
+        "source_md5": "e807901382c7223238c5c3fd5bad5d8e",
+        "sha256": "3784953c451b088d24ac1b0e6946c7f7bd589115f51e6549fdb8fe9f7c10600e",
+        "bytes": 6795
+      },
+      {
+        "path": "raw/polyhaven/wooden_display_shelves_01/textures/wooden_display_shelves_01_arm_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_display_shelves_01/wooden_display_shelves_01_arm_1k.jpg",
+        "source_md5": "526dc6c49a7ce366b61f04ab794107ee",
+        "sha256": "33d6b769eafab3b1d8605b202cd41b0994b8c43df02dca5bdd86e942e390ff6a",
+        "bytes": 164353
+      },
+      {
+        "path": "raw/polyhaven/wooden_display_shelves_01/textures/wooden_display_shelves_01_nor_gl_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_display_shelves_01/wooden_display_shelves_01_nor_gl_1k.jpg",
+        "source_md5": "696f1c48d08ffcc4bfc90e4aabc91286",
+        "sha256": "04191c25bfb8e76314863b624233807792df64fa1a638c75d20788becb4cbb8c",
+        "bytes": 54739
+      },
+      {
+        "path": "raw/polyhaven/wooden_display_shelves_01/wooden_display_shelves_01.bin",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/wooden_display_shelves_01/wooden_display_shelves_01.bin",
+        "source_md5": "d26e27c0c3a7c6b247b220a49379298f",
+        "sha256": "e6c000a780626e618c1f1c0c1ec2ec29e1452e7824055ba53b40963d857edfbe",
+        "bytes": 105988
+      },
+      {
+        "path": "raw/polyhaven/wooden_display_shelves_01/textures/wooden_display_shelves_01_diff_1k.jpg",
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/wooden_display_shelves_01/wooden_display_shelves_01_diff_1k.jpg",
+        "source_md5": "b3f7519052957a3f0199e5fcd742a0b6",
+        "sha256": "cb57e90d9588ce81e58ff7300e89956a6a3c45119165b858d921a5a2439cbeaf",
+        "bytes": 139254
+      }
+    ]
+  }
+]

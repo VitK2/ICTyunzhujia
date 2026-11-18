@@ -1,0 +1,4167 @@
+[
+  {
+    "product_id": "abo_B071J7Q39G",
+    "source_asset_id": "abo_B071J7Q39G",
+    "name": "休闲椅 · Amazon Brand - Stone & Beam Dalton 高性能面料客厅装饰扶手椅,41.5 英寸(约 114.9 厘米),石材",
+    "category": "armchair",
+    "width_mm": 998.501121997834,
+    "height_mm": 934.220552444458,
+    "depth_mm": 1044.090092182159,
+    "model_url": "/models/abo_B071J7Q39G.glb",
+    "preview_url": "/previews/abo_B071J7Q39G.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B071J7Q39G",
+    "original_product_url": "https://www.amazon.com/dp/B071J7Q39G",
+    "archive_product_id": "B071J7Q39G",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "石色 / Stone",
+      "material": "纺织品 / 灰石色 / Textile / stone",
+      "style": "过渡 / Transitional",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "3204f97259d0ef9714feb894dbb1b1304bf9826f8a6cf89e98bffaa326899e13",
+    "sha256": "8582c3ff7005413b7a928eeeaf992206c9608d207e9ad0638a5626b0046d4490",
+    "bytes": 1172648,
+    "source_bytes": 3653272,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B071W5VJFK",
+    "source_asset_id": "abo_B071W5VJFK",
+    "name": "休闲椅 · Amazon Brand – Rivet Cove 现代簇绒装饰椅带锥形腿,中世纪,32.7 英寸宽,浅灰色",
+    "category": "armchair",
+    "width_mm": 820.713937282562,
+    "height_mm": 880.370318889618,
+    "depth_mm": 842.680424451828,
+    "model_url": "/models/abo_B071W5VJFK.glb",
+    "preview_url": "/previews/abo_B071W5VJFK.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B071W5VJFK",
+    "original_product_url": "https://www.amazon.com/dp/B071W5VJFK",
+    "archive_product_id": "B071W5VJFK",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "浅灰色 / Light Grey",
+      "material": "涤纶 / Polyester",
+      "style": "Mid-Century modern",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "77f4f88232554b7b9be83e38a16f720d39a8d09f0a04dc086f009369364ebf74",
+    "sha256": "d7d30c87e3a022ea3921689df7ae45a6d6deffdaa2b69ba788bbbc75a3e3ca1d",
+    "bytes": 1241752,
+    "source_bytes": 3745756,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B072C8Q4SG",
+    "source_asset_id": "abo_B072C8Q4SG",
+    "name": "休闲椅 · 亚马逊品牌 – Stone & Beam Lummi 现代无扶手拖鞋装饰椅子，21.6 英寸宽，Chianti",
+    "category": "armchair",
+    "width_mm": 538.1270945072181,
+    "height_mm": 846.233665943146,
+    "depth_mm": 640.462458133698,
+    "model_url": "/models/abo_B072C8Q4SG.glb",
+    "preview_url": "/previews/abo_B072C8Q4SG.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B072C8Q4SG",
+    "original_product_url": "https://www.amazon.com/dp/B072C8Q4SG",
+    "archive_product_id": "B072C8Q4SG",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "Chianti",
+      "material": "涤纶面料 / Polyester",
+      "style": "过渡 / Transitional",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "e4540cf96316cfaa8be02580880e116e954ae82c389557bc032e6e2a93500ea8",
+    "sha256": "eec74e64e0710a46fc7721fd7bc2c0d01b5cc2b309f0c89b8942365933e6c45c",
+    "bytes": 1298244,
+    "source_bytes": 3186672,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B075X33T21",
+    "source_asset_id": "abo_B075X33T21",
+    "name": "休闲椅 · 铆钉 PARKS mid-century 现代 wingback 皮革电脑椅, Aged Black",
+    "category": "armchair",
+    "width_mm": 818.5189366340641,
+    "height_mm": 1067.52324104309,
+    "depth_mm": 954.092621803283,
+    "model_url": "/models/abo_B075X33T21.glb",
+    "preview_url": "/previews/abo_B075X33T21.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B075X33T21",
+    "original_product_url": "https://www.amazon.com/dp/B075X33T21",
+    "archive_product_id": "B075X33T21",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "Aged Black",
+      "material": "Leather",
+      "style": "Mid-Century Modern",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "2465f0e4d570286590a18606f64cf46bc3e18e2a919d9f425db847434a219b75",
+    "sha256": "24ddfa79a194306c57fa3d695110196bb644647c7e3e841b54c0d3f158e85f0d",
+    "bytes": 1057408,
+    "source_bytes": 2859316,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B075X4F3RQ",
+    "source_asset_id": "abo_B075X4F3RQ",
+    "name": "休闲椅 · Amazon 品牌 – 铆钉弧形簇绒天鹅绒装饰椅子，Marina 中世纪，28.7 英寸宽，葡萄色",
+    "category": "armchair",
+    "width_mm": 851.406991481781,
+    "height_mm": 885.176360607147,
+    "depth_mm": 775.824189186096,
+    "model_url": "/models/abo_B075X4F3RQ.glb",
+    "preview_url": "/previews/abo_B075X4F3RQ.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B075X4F3RQ",
+    "original_product_url": "https://www.amazon.com/dp/B075X4F3RQ",
+    "archive_product_id": "B075X4F3RQ",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "葡萄色 / Grape",
+      "material": "天鹅绒 / Velvet",
+      "style": "Glam",
+      "finish_type": "",
+      "fabric_type": "100% 聚酯纤维 / 100% Polyester"
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "8e8a3db7d6613c5ad6e1c81531f127991b19fc71bac7f2247ce32fe3a4ce2124",
+    "sha256": "eaec83a3c8885d112f005329e94e7ec1ff494203bd7d562f5f41640b573f2820",
+    "bytes": 1464656,
+    "source_bytes": 3171472,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B075X65QY7",
+    "source_asset_id": "abo_B075X65QY7",
+    "name": "休闲椅 · 亚马逊品牌 – Stone & Beam Leila 簇绒超大装饰椅子，客厅椅子，森林绿",
+    "category": "armchair",
+    "width_mm": 1104.3908596038818,
+    "height_mm": 852.483093738556,
+    "depth_mm": 941.087484359741,
+    "model_url": "/models/abo_B075X65QY7.glb",
+    "preview_url": "/previews/abo_B075X65QY7.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B075X65QY7",
+    "original_product_url": "https://www.amazon.com/dp/B075X65QY7",
+    "archive_product_id": "B075X65QY7",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "暗绿色（Hunter） / Hunter Green",
+      "material": "Polypropylene; Wood frame",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": "织物 / Fabric"
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "cdbba936c564c18fb9b0293804a9f8f16e964d1e6d5f282744b9b2b0e2781285",
+    "sha256": "e252b6a2ba35eb9383e40a6bd0ecd270bf0dcbfe50797aaa4bdbfbf7cf75de9e",
+    "bytes": 2670920,
+    "source_bytes": 32244528,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07B4L9FHL",
+    "source_asset_id": "abo_B07B4L9FHL",
+    "name": "休闲椅 · Rivet Edgewest 低背现代座椅系列, 亚麻, 灰亚麻",
+    "category": "armchair",
+    "width_mm": 963.031113147736,
+    "height_mm": 861.356735229492,
+    "depth_mm": 865.73788523674,
+    "model_url": "/models/abo_B07B4L9FHL.glb",
+    "preview_url": "/previews/abo_B07B4L9FHL.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07B4L9FHL",
+    "original_product_url": "https://www.amazon.com/dp/B07B4L9FHL",
+    "archive_product_id": "B07B4L9FHL",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "灰亚麻 / Grey Linen",
+      "material": "亚麻 / Linen",
+      "style": "乡村风 / Rustic",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "c8fc97814c17939d3543e7a71f54fbfd3d184cf874122d944ae7d02df0119b42",
+    "sha256": "ae01c5fc49a0d3182d60e9dc78486ae16e7c189d26351eb5ab43e70cdbfaf8ac",
+    "bytes": 1031676,
+    "source_bytes": 3005504,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07B4MJKPG",
+    "source_asset_id": "abo_B07B4MJKPG",
+    "name": "休闲椅 · Stone & Beam Edmunds 传统躺椅，30 英寸宽, 灰石色, 拿铁白",
+    "category": "armchair",
+    "width_mm": 841.062784194946,
+    "height_mm": 1027.87744998932,
+    "depth_mm": 858.348220586777,
+    "model_url": "/models/abo_B07B4MJKPG.glb",
+    "preview_url": "/previews/abo_B07B4MJKPG.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07B4MJKPG",
+    "original_product_url": "https://www.amazon.com/dp/B07B4MJKPG",
+    "archive_product_id": "B07B4MJKPG",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "拿铁白 / Latte",
+      "material": "灰石色 / stone",
+      "style": "现代 / Modern",
+      "finish_type": "",
+      "fabric_type": "Hanson Sti Tan"
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "46f07aa68636861d3b113030e09fd7ad556b189d1cb901986dae1060035d16f4",
+    "sha256": "f443faa1ed7117c99b6dfaac9c14ad0160ae1985e9375e7be937b5a30eb541e2",
+    "bytes": 1543868,
+    "source_bytes": 4313524,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07BWJCZJX",
+    "source_asset_id": "abo_B07BWJCZJX",
+    "name": "休闲椅 · Stone & Beam Lummi 现代无扶手风格椅",
+    "category": "armchair",
+    "width_mm": 513.043135404587,
+    "height_mm": 803.962826728821,
+    "depth_mm": 591.526448726654,
+    "model_url": "/models/abo_B07BWJCZJX.glb",
+    "preview_url": "/previews/abo_B07BWJCZJX.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07BWJCZJX",
+    "original_product_url": "https://www.amazon.com/dp/B07BWJCZJX",
+    "archive_product_id": "B07BWJCZJX",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "Denim",
+      "material": "denim / stone",
+      "style": "Transitional",
+      "finish_type": "",
+      "fabric_type": "Brighton Storm"
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "6ce61a68bb3dba9e3cdd96fd89cd377a56dfbe1b043e1bc22d1f3ee90a81f7f2",
+    "sha256": "f3222c103414e8e774907d1c1a511a924533dd4eadc67e0be6c1b649c71021ed",
+    "bytes": 1071540,
+    "source_bytes": 11167396,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07DBB1R1P",
+    "source_asset_id": "abo_B07DBB1R1P",
+    "name": "休闲椅 · Ravenna Home Kaiden 图案钉头特色椅",
+    "category": "armchair",
+    "width_mm": 622.935354709625,
+    "height_mm": 816.444158554077,
+    "depth_mm": 651.1183977127071,
+    "model_url": "/models/abo_B07DBB1R1P.glb",
+    "preview_url": "/previews/abo_B07DBB1R1P.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07DBB1R1P",
+    "original_product_url": "https://www.amazon.com/dp/B07DBB1R1P",
+    "archive_product_id": "B07DBB1R1P",
+    "attributes": {
+      "brand": "Ravenna Home",
+      "color": "Leaf",
+      "material": "Wood/ Polyester/ Foam",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "74f70c2618d1cc901c5bd7e318b3df9f5f931b1c31bcc8212b7dac5dd90c88f3",
+    "sha256": "93f38bea433a7645f4d503e74ed744a8a0f1306626d59c97f1a78aa29910e7a8",
+    "bytes": 1659188,
+    "source_bytes": 3237740,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07DBF3V6X",
+    "source_asset_id": "abo_B07DBF3V6X",
+    "name": "休闲椅 · Ravenna Home 半纽扣簇绒装饰椅，33 英寸宽, 亚麻, Linen",
+    "category": "armchair",
+    "width_mm": 847.703516483307,
+    "height_mm": 867.858409881592,
+    "depth_mm": 905.949771404266,
+    "model_url": "/models/abo_B07DBF3V6X.glb",
+    "preview_url": "/previews/abo_B07DBF3V6X.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07DBF3V6X",
+    "original_product_url": "https://www.amazon.com/dp/B07DBF3V6X",
+    "archive_product_id": "B07DBF3V6X",
+    "attributes": {
+      "brand": "Ravenna Home",
+      "color": "Linen",
+      "material": "亚麻 / Linen",
+      "style": "过渡 / Transitional",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "f6baa543d0385d93709d34688a37df517512a44a70b496543762651419cd6211",
+    "sha256": "7fc360ac3671fc713ef237dfc24be531bc541ed6b106010dde7b0d713f106bc3",
+    "bytes": 1846420,
+    "source_bytes": 3386608,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07DBGXFVF",
+    "source_asset_id": "abo_B07DBGXFVF",
+    "name": "休闲椅 · Ravenna Home Dunford 休闲卷袖沙发",
+    "category": "armchair",
+    "width_mm": 1274.852991104126,
+    "height_mm": 1349.46274757385,
+    "depth_mm": 1180.215835571289,
+    "model_url": "/models/abo_B07DBGXFVF.glb",
+    "preview_url": "/previews/abo_B07DBGXFVF.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07DBGXFVF",
+    "original_product_url": "https://www.amazon.com/dp/B07DBGXFVF",
+    "archive_product_id": "B07DBGXFVF",
+    "attributes": {
+      "brand": "Ravenna Home",
+      "color": "Beige",
+      "material": "Polyester",
+      "style": "椅子 / Chair",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "d6d837d0c5748b899036d4117e64e9403c0dab43e15fac9cd8a11033d9d4b72d",
+    "sha256": "6af0854ca5a1043395903d2af241e7b49ffd4f77c040061733e6d5330da0bcec",
+    "bytes": 1785656,
+    "source_bytes": 30462968,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07DBHBCXQ",
+    "source_asset_id": "abo_B07DBHBCXQ",
+    "name": "休闲椅 · Amazon 品牌 – Ravenna Home Eddison 现代斜坡装饰椅子，81.28 厘米宽，蓝色",
+    "category": "armchair",
+    "width_mm": 856.953352689743,
+    "height_mm": 1133.48996639252,
+    "depth_mm": 1025.280475616456,
+    "model_url": "/models/abo_B07DBHBCXQ.glb",
+    "preview_url": "/previews/abo_B07DBHBCXQ.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07DBHBCXQ",
+    "original_product_url": "https://www.amazon.com/dp/B07DBHBCXQ",
+    "archive_product_id": "B07DBHBCXQ",
+    "attributes": {
+      "brand": "Ravenna Home",
+      "color": "蓝色 / Blue",
+      "material": "Polyester",
+      "style": "过渡 / Transitional",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "3e58d9b03e9945822aa20e5b3b9ce24718ec15bb240f547beefafe603fb75402",
+    "sha256": "f68e00190df2ff0896333d2541da3bdd1c95cc46175707a31ef9e5eaf7d1af2b",
+    "bytes": 1518132,
+    "source_bytes": 4575428,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07DBHCKF9",
+    "source_asset_id": "abo_B07DBHCKF9",
+    "name": "休闲椅 · Amazon Brand – Ravenna Home Keith Rounded Faux Leather Nailhead Club Accent Chair, 29.5\"W, Black",
+    "category": "armchair",
+    "width_mm": 794.138610363006,
+    "height_mm": 822.667121887207,
+    "depth_mm": 747.742950916291,
+    "model_url": "/models/abo_B07DBHCKF9.glb",
+    "preview_url": "/previews/abo_B07DBHCKF9.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07DBHCKF9",
+    "original_product_url": "https://www.amazon.com/dp/B07DBHCKF9",
+    "archive_product_id": "B07DBHCKF9",
+    "attributes": {
+      "brand": "Ravenna Home",
+      "color": "Black",
+      "material": "Faux Leather",
+      "style": "Rustic",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "e154a1bcfd36dbd6ab6984d3cd5a25610f1d32848db76680d1fb1a516b793224",
+    "sha256": "8b9d8c4778f006b2a89b41b9664f18b21f7e9a33ef04ad11fbc789d96725a278",
+    "bytes": 1426348,
+    "source_bytes": 3320340,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07HYY8Z7P",
+    "source_asset_id": "abo_B07HYY8Z7P",
+    "name": "休闲椅 · Amazon Brand – Rivet Goodwin 现代客厅装饰椅,32.3 英寸宽 x 35.8 英寸高(约 81.9 厘米宽 x 90.9 厘米高),炭灰色",
+    "category": "armchair",
+    "width_mm": 857.829868793488,
+    "height_mm": 957.466959953308,
+    "depth_mm": 899.459660053253,
+    "model_url": "/models/abo_B07HYY8Z7P.glb",
+    "preview_url": "/previews/abo_B07HYY8Z7P.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07HYY8Z7P",
+    "original_product_url": "https://www.amazon.com/dp/B07HYY8Z7P",
+    "archive_product_id": "B07HYY8Z7P",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "炭黑色 / Charcoal",
+      "material": "涤纶 / Polyester",
+      "style": "过渡 / Transitional",
+      "finish_type": "",
+      "fabric_type": "聚酯纤维 / Polyester"
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "331a66a7c58552cb020a3dec6921db997ed78c030c45844eb26cc16600259b9e",
+    "sha256": "afe5b1622485529b6d3535a1150c24d183c86429bccf28269e90e00efa6c0184",
+    "bytes": 1742264,
+    "source_bytes": 4891028,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B082QD61D9",
+    "source_asset_id": "abo_B082QD61D9",
+    "name": "休闲椅 · Amazon Brand – Rivet Spear Mid-Century Modern Channel Tufted Leather Accent Chair with Wood Arms, 29.1\"W, Cognac",
+    "category": "armchair",
+    "width_mm": 741.195380687714,
+    "height_mm": 832.341849803925,
+    "depth_mm": 797.897666692733,
+    "model_url": "/models/abo_B082QD61D9.glb",
+    "preview_url": "/previews/abo_B082QD61D9.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B082QD61D9",
+    "original_product_url": "https://www.amazon.com/dp/B082QD61D9",
+    "archive_product_id": "B082QD61D9",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "Cognac",
+      "material": "Leather",
+      "style": "Chair",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "27952b84cb9fa47ee085115a3f6320cdafffef1deab6f42cdf18125536083b6a",
+    "sha256": "b87a84a5c3d54d881f91a40ef51826171e2b14bb72fef7db14cef31e0fcc9742",
+    "bytes": 3347328,
+    "source_bytes": 49717660,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B082SVGL8Y",
+    "source_asset_id": "abo_B082SVGL8Y",
+    "name": "休闲椅 · Amazon Brand – Stone & Beam Sadie Living Room Wingback Accent Chair, 33\"W, Oat Beige",
+    "category": "armchair",
+    "width_mm": 837.7709686756141,
+    "height_mm": 1039.95585441589,
+    "depth_mm": 965.8369123935701,
+    "model_url": "/models/abo_B082SVGL8Y.glb",
+    "preview_url": "/previews/abo_B082SVGL8Y.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B082SVGL8Y",
+    "original_product_url": "https://www.amazon.com/dp/B082SVGL8Y",
+    "archive_product_id": "B082SVGL8Y",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "Oat Beige",
+      "material": "wood",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "1330dc62806c4c936c64119cb122248165ab33acefd3ed28040a5a0f21b76a3e",
+    "sha256": "7b915341bc314b0ffda26c65cac843184c6cdf6c33e1b2e4e207d6a92e27dfbc",
+    "bytes": 4401564,
+    "source_bytes": 58786436,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B082VKXXN2",
+    "source_asset_id": "abo_B082VKXXN2",
+    "name": "休闲椅 · Amazon Brand – Stone & Beam Shorebrook Deep Upholstered Accent Chair, 27.6\"W, Grey",
+    "category": "armchair",
+    "width_mm": 701.0400295257571,
+    "height_mm": 909.319996833801,
+    "depth_mm": 861.0600233078,
+    "model_url": "/models/abo_B082VKXXN2.glb",
+    "preview_url": "/previews/abo_B082VKXXN2.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B082VKXXN2",
+    "original_product_url": "https://www.amazon.com/dp/B082VKXXN2",
+    "archive_product_id": "B082VKXXN2",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "Grey",
+      "material": "",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "2addf8aa4e6b1332e32cdf4ccd9e58b0c7e64f973297f343f2b9f9055776d9ae",
+    "sha256": "ba32a56eff6063af7114744b55735b42970724c609b9db994bcafd15a6edf5fa",
+    "bytes": 4802468,
+    "source_bytes": 59279580,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07B7B94L2",
+    "source_asset_id": "abo_B07B7B94L2",
+    "name": "储物柜 · Stone & Beam 休闲木制餐厅系列, 木头, 棕色",
+    "category": "cabinet",
+    "width_mm": 1372.565627098084,
+    "height_mm": 811.603307723999,
+    "depth_mm": 480.400934815407,
+    "model_url": "/models/abo_B07B7B94L2.glb",
+    "preview_url": "/previews/abo_B07B7B94L2.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07B7B94L2",
+    "original_product_url": "https://www.amazon.com/dp/B07B7B94L2",
+    "archive_product_id": "B07B7B94L2",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "棕色 / Brown",
+      "material": "木头 / wood",
+      "style": "54\" Buffet",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "ffaf26191ce3b2b798cf2b05f3fb4fce39cbe438048b22f1d36d05ec714c4cb0",
+    "sha256": "94552f244cca2089c42a6d417a7debe71efa3e9662e8770aefee22ec4df1579e",
+    "bytes": 1109768,
+    "source_bytes": 3468060,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07B813LW1",
+    "source_asset_id": "abo_B07B813LW1",
+    "name": "储物柜 · Rivet Mid-Century 现代工业金属自助餐 Credenza，71.12 cm 高, Iron 木头, 米色",
+    "category": "cabinet",
+    "width_mm": 904.347360134124,
+    "height_mm": 694.257199764252,
+    "depth_mm": 464.90626037120796,
+    "model_url": "/models/abo_B07B813LW1.glb",
+    "preview_url": "/previews/abo_B07B813LW1.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07B813LW1",
+    "original_product_url": "https://www.amazon.com/dp/B07B813LW1",
+    "archive_product_id": "B07B813LW1",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "米色 / Beige",
+      "material": "Iron / 木头 / Wood / Engineered Wood",
+      "style": "0",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "cb5c774775013e84ebf2d2f678089797b2efd45e4f793904450bb87cbf7e2992",
+    "sha256": "0b006ed2bf3cdbda897be6df80ea0d6ac07e806431da00243c94afb5d9236a75",
+    "bytes": 2332684,
+    "source_bytes": 8492744,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07G4ZXLC8",
+    "source_asset_id": "abo_B07G4ZXLC8",
+    "name": "储物柜 · Ameriwood Home Franklin 2 Door Storage Cabinet, Gray",
+    "category": "cabinet",
+    "width_mm": 800.99993944168,
+    "height_mm": 779.6144485473629,
+    "depth_mm": 395.99996805191,
+    "model_url": "/models/abo_B07G4ZXLC8.glb",
+    "preview_url": "/previews/abo_B07G4ZXLC8.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07G4ZXLC8",
+    "original_product_url": "https://www.amazon.com/dp/B07G4ZXLC8",
+    "archive_product_id": "B07G4ZXLC8",
+    "attributes": {
+      "brand": "Ameriwood Home",
+      "color": "Grey / 灰色",
+      "material": "Engineered Wood / 木头",
+      "style": "Storage Cabinet",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "7683629fd7024283f06b6163c2a1d096512897970e34dec52f44bd4c85d5f1a9",
+    "sha256": "77264cd8bc19c265fe1ee29bf2aaa26834d3c76e120d2d00c6ef49d90b96bb80",
+    "bytes": 453952,
+    "source_bytes": 1802464,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07HSBD8DM",
+    "source_asset_id": "abo_B07HSBD8DM",
+    "name": "储物柜 · Stone & Beam 传统自助餐储物柜 - 68 英寸，棕色",
+    "category": "cabinet",
+    "width_mm": 1707.796573638916,
+    "height_mm": 820.112287998199,
+    "depth_mm": 522.3150253295889,
+    "model_url": "/models/abo_B07HSBD8DM.glb",
+    "preview_url": "/previews/abo_B07HSBD8DM.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07HSBD8DM",
+    "original_product_url": "https://www.amazon.com/dp/B07HSBD8DM",
+    "archive_product_id": "B07HSBD8DM",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "棕色 / Brown",
+      "material": "木头 / Wood",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "c722fb92e47c49ccf52451bc8bc74a5bfcdeba67bfe5833cb838bbab001af384",
+    "sha256": "c56c99ca0140cd48e64d72694e7eab54e6c66f4b0ee1d6eb66c18a7dac85c8f7",
+    "bytes": 962952,
+    "source_bytes": 2480324,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07HSLVMP2",
+    "source_asset_id": "abo_B07HSLVMP2",
+    "name": "储物柜 · Stone & Beam Rylee 现代餐厅系列, 灰石色, 灰色",
+    "category": "cabinet",
+    "width_mm": 1601.706862449646,
+    "height_mm": 788.144886493683,
+    "depth_mm": 455.40580153465197,
+    "model_url": "/models/abo_B07HSLVMP2.glb",
+    "preview_url": "/previews/abo_B07HSLVMP2.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07HSLVMP2",
+    "original_product_url": "https://www.amazon.com/dp/B07HSLVMP2",
+    "archive_product_id": "B07HSLVMP2",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "灰色 / Gray",
+      "material": "灰石色 / stone",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "25b9bf44c04ce6645a074377fd03ad48402376aedb50dfb74c54a4580990bb5c",
+    "sha256": "b73250eb574763fad1f0d718cc34ea832111cf33dbb790552e25475754f4084d",
+    "bytes": 1255164,
+    "source_bytes": 4127300,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B072ZK2FZ6",
+    "source_asset_id": "abo_B072ZK2FZ6",
+    "name": "茶几 · 铆钉工业现代木材和金属桌系列, 金属 木头, 胡桃棕色",
+    "category": "coffee_table",
+    "width_mm": 803.638994693756,
+    "height_mm": 576.272130012512,
+    "depth_mm": 361.341893672943,
+    "model_url": "/models/abo_B072ZK2FZ6.glb",
+    "preview_url": "/previews/abo_B072ZK2FZ6.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B072ZK2FZ6",
+    "original_product_url": "https://www.amazon.com/dp/B072ZK2FZ6",
+    "archive_product_id": "B072ZK2FZ6",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "胡桃棕色 / Walnut",
+      "material": "金属 / 木头 / metal / wood",
+      "style": "31.5\" Side Table",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "67059f9d7c865ae7865f5d7ba360e4bc8d9eea8fa0df82186d8a90e52c54a32f",
+    "sha256": "6f8f2e39cfacc9a2b2b8d0ea63785496a8a1d0c73b82713cf880783fe45f2610",
+    "bytes": 930368,
+    "source_bytes": 2969808,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B074KMJ96Q",
+    "source_asset_id": "abo_B074KMJ96Q",
+    "name": "茶几 · Stone & Beam Glenwood 咖啡桌，46 英寸（约 116.8 厘米），橡木色",
+    "category": "coffee_table",
+    "width_mm": 1166.658937931061,
+    "height_mm": 361.4102602005,
+    "depth_mm": 719.04444694519,
+    "model_url": "/models/abo_B074KMJ96Q.glb",
+    "preview_url": "/previews/abo_B074KMJ96Q.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B074KMJ96Q",
+    "original_product_url": "https://www.amazon.com/dp/B074KMJ96Q",
+    "archive_product_id": "B074KMJ96Q",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "橡木色 / Oak",
+      "material": "灰石色 / stone",
+      "style": "工业用 / Industrial",
+      "finish_type": "oak",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "b0131b8d855aa738dd66ab11046b017d969451348cce95611395d974cc9c7329",
+    "sha256": "d7c7e6de45fe950eedf6e6f837bab165899099db3297c1b949ef3abc2fb85cff",
+    "bytes": 1293060,
+    "source_bytes": 2816120,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B075Z8KXDT",
+    "source_asset_id": "abo_B075Z8KXDT",
+    "name": "茶几 · Stone & Beam Larson 工业木材和金属桌, 木头",
+    "category": "coffee_table",
+    "width_mm": 836.547434329986,
+    "height_mm": 462.229132652283,
+    "depth_mm": 836.5472257137301,
+    "model_url": "/models/abo_B075Z8KXDT.glb",
+    "preview_url": "/previews/abo_B075Z8KXDT.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B075Z8KXDT",
+    "original_product_url": "https://www.amazon.com/dp/B075Z8KXDT",
+    "archive_product_id": "B075Z8KXDT",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "棕色 / Walnut + Metal",
+      "material": "木头 / wood",
+      "style": "Round Coffee Table",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "28cd59e6965208a7d0779b1eac94604210d2c0f8f29695529676ad28d7be71dd",
+    "sha256": "956a9d82281c4cc9a179cd5049e50ebb7ddcab019d13d5a3b3fa5a6448ca8012",
+    "bytes": 958516,
+    "source_bytes": 2109016,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B075Z8KXW7",
+    "source_asset_id": "abo_B075Z8KXW7",
+    "name": "茶几 · Stone & Beam 海岸风 乡村风 农舍 桌子 系列, 木头",
+    "category": "coffee_table",
+    "width_mm": 1400.048017501832,
+    "height_mm": 409.956008195877,
+    "depth_mm": 800.100028514862,
+    "model_url": "/models/abo_B075Z8KXW7.glb",
+    "preview_url": "/previews/abo_B075Z8KXW7.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B075Z8KXW7",
+    "original_product_url": "https://www.amazon.com/dp/B075Z8KXW7",
+    "archive_product_id": "B075Z8KXW7",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "白色 / White & Wood",
+      "material": "木头 / wood",
+      "style": "咖啡桌 / Coffee Table",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "a6aa38ea65b7e39b7c4dc1d55f5c563374be7ee110ca0b60c1bdc4d8efb80c4d",
+    "sha256": "dc3ece145d463e22a03078ee0ac999c8376f4a3e56b37bebdea950901ae540c3",
+    "bytes": 875288,
+    "source_bytes": 2538176,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B075Z9X4G2",
+    "source_asset_id": "abo_B075Z9X4G2",
+    "name": "茶几 · Stone & Beam Ferndale 乡村风格 2 抽屉控制台咖啡桌，63 英寸宽，咖啡色",
+    "category": "coffee_table",
+    "width_mm": 1598.519086837769,
+    "height_mm": 762.00795173645,
+    "depth_mm": 442.09910929203,
+    "model_url": "/models/abo_B075Z9X4G2.glb",
+    "preview_url": "/previews/abo_B075Z9X4G2.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B075Z9X4G2",
+    "original_product_url": "https://www.amazon.com/dp/B075Z9X4G2",
+    "archive_product_id": "B075Z9X4G2",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "Espresso 咖啡色 / Espresso",
+      "material": "灰石色 / stone",
+      "style": "过渡 / Transitional",
+      "finish_type": "espresso",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "5364aab0944be4dda98b79afb60e380b65bbe5491a98dc488cdaa7970ef6d5bb",
+    "sha256": "81d760f48a09b8cd512d06b1f9874c0a82558103b421fffdc97d82f87df3b053",
+    "bytes": 1093880,
+    "source_bytes": 3373640,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B075ZBVZPB",
+    "source_asset_id": "abo_B075ZBVZPB",
+    "name": "茶几 · Stone & Beam Larson 工业木材和金属桌, 木头",
+    "category": "coffee_table",
+    "width_mm": 989.900946617126,
+    "height_mm": 398.708283901215,
+    "depth_mm": 452.105551958084,
+    "model_url": "/models/abo_B075ZBVZPB.glb",
+    "preview_url": "/previews/abo_B075ZBVZPB.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B075ZBVZPB",
+    "original_product_url": "https://www.amazon.com/dp/B075ZBVZPB",
+    "archive_product_id": "B075ZBVZPB",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "棕色 / Walnut + Metal",
+      "material": "木头 / wood",
+      "style": "Modern farm_House",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "9f4c322ffc387777ae3abbd5759785962a3f6d645ce74a196ae4f4bc52758ff3",
+    "sha256": "fc8c859808d46b147effe23a597cdc1c150b1a730390be0296536793d9718500",
+    "bytes": 847080,
+    "source_bytes": 2441232,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B075ZDWPHC",
+    "source_asset_id": "abo_B075ZDWPHC",
+    "name": "茶几 · Stone & Beam Mirador Elm 木雕咖啡桌，39.4 英寸深，自然色",
+    "category": "coffee_table",
+    "width_mm": 974.185764789582,
+    "height_mm": 450.087994337082,
+    "depth_mm": 974.185764789582,
+    "model_url": "/models/abo_B075ZDWPHC.glb",
+    "preview_url": "/previews/abo_B075ZDWPHC.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B075ZDWPHC",
+    "original_product_url": "https://www.amazon.com/dp/B075ZDWPHC",
+    "archive_product_id": "B075ZDWPHC",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "灰色（Ash） / Ash",
+      "material": "木头 / Wood",
+      "style": "过渡 / Transitional",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "b8155d0d4eaf0e944a791aa7e7435f9cba03b39b5a90f6d232e9b44850f6b1ee",
+    "sha256": "f597134316c8cf1f48177eafad217048c6476595abb807461ac1d72d7d22ea06",
+    "bytes": 1471948,
+    "source_bytes": 3703216,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07B7NYQLK",
+    "source_asset_id": "abo_B07B7NYQLK",
+    "name": "茶几 · Stone & Beam Bernice 系列, 木头, Natural/Black",
+    "category": "coffee_table",
+    "width_mm": 1238.399863243103,
+    "height_mm": 492.417931556702,
+    "depth_mm": 876.868933439254,
+    "model_url": "/models/abo_B07B7NYQLK.glb",
+    "preview_url": "/previews/abo_B07B7NYQLK.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07B7NYQLK",
+    "original_product_url": "https://www.amazon.com/dp/B07B7NYQLK",
+    "archive_product_id": "B07B7NYQLK",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "Natural/Black",
+      "material": "木头 / wood",
+      "style": "工业用 / Coffee Table",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "2146612a24cd4f0d452e4531d39682a4a0effbea63b6acbe6e1b13cfee52861b",
+    "sha256": "bdd8a905f931c631b574c5431b3408943a80ee556e51cfb6070033453d4aaa99",
+    "bytes": 662040,
+    "source_bytes": 2221480,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07DBDWZ61",
+    "source_asset_id": "abo_B07DBDWZ61",
+    "name": "茶几 · Amazon 品牌 - Ravenna Home Angela 现代转脚木架收纳咖啡桌，111.76 厘米宽，黑色",
+    "category": "coffee_table",
+    "width_mm": 1106.902301311493,
+    "height_mm": 510.476231575012,
+    "depth_mm": 549.901157617569,
+    "model_url": "/models/abo_B07DBDWZ61.glb",
+    "preview_url": "/previews/abo_B07DBDWZ61.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07DBDWZ61",
+    "original_product_url": "https://www.amazon.com/dp/B07DBDWZ61",
+    "archive_product_id": "B07DBDWZ61",
+    "attributes": {
+      "brand": "Ravenna Home",
+      "color": "黑色 / Black",
+      "material": "木头 / wood",
+      "style": "咖啡桌 / Bold eclectic",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "e2e3d824c14ed8d2dd2d3c9106716bb836881ce3b601f8bc5b7e89b91d058a83",
+    "sha256": "0d11418329267648cd228e598f072c8f67ce03da7624d6fa691e27dd116437b1",
+    "bytes": 539840,
+    "source_bytes": 805664,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07DBGQ9DT",
+    "source_asset_id": "abo_B07DBGQ9DT",
+    "name": "茶几 · Ravenna Home Anne Marie 圆形木架储物弧形腿咖啡桌",
+    "category": "coffee_table",
+    "width_mm": 910.825788974762,
+    "height_mm": 512.425482273102,
+    "depth_mm": 910.82563996315,
+    "model_url": "/models/abo_B07DBGQ9DT.glb",
+    "preview_url": "/previews/abo_B07DBGQ9DT.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07DBGQ9DT",
+    "original_product_url": "https://www.amazon.com/dp/B07DBGQ9DT",
+    "archive_product_id": "B07DBGQ9DT",
+    "attributes": {
+      "brand": "Ravenna Home",
+      "color": "Dark Espresso",
+      "material": "solid pine",
+      "style": "Transitional",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "b9b95d100720391f577210c2713bf46471ec215e34529f72ae0bcfaf9ffa141d",
+    "sha256": "9b5e6f4550100447caf056b93ced908ec819a857c7e2db51814694b2d83cd789",
+    "bytes": 642528,
+    "source_bytes": 1608448,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07MFYTP3Z",
+    "source_asset_id": "abo_B07MFYTP3Z",
+    "name": "茶几 · Ravenna Home Classic Coffee Table with Side Cutouts, 42\"W, White Wood",
+    "category": "coffee_table",
+    "width_mm": 1067.858099937438,
+    "height_mm": 493.457853794098,
+    "depth_mm": 612.2953891754161,
+    "model_url": "/models/abo_B07MFYTP3Z.glb",
+    "preview_url": "/previews/abo_B07MFYTP3Z.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07MFYTP3Z",
+    "original_product_url": "https://www.amazon.com/dp/B07MFYTP3Z",
+    "archive_product_id": "B07MFYTP3Z",
+    "attributes": {
+      "brand": "Ravenna Home",
+      "color": "",
+      "material": "",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "4a525ff6e23c98080ed48a12d941a251e157d4e38402b502799436c4560463f1",
+    "sha256": "19cf4ef5771be318fbc9451b2f8ad14566ef39d56dfc7d578ce9643dfd503afd",
+    "bytes": 1710364,
+    "source_bytes": 9980380,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07QC876Z6",
+    "source_asset_id": "abo_B07QC876Z6",
+    "name": "茶几 · Amazon Brand – Rivet Modern Coffee Table, 39.37\"W, Pine Veneer and Natural Wood",
+    "category": "coffee_table",
+    "width_mm": 999.579310417176,
+    "height_mm": 419.338673353195,
+    "depth_mm": 548.841536045074,
+    "model_url": "/models/abo_B07QC876Z6.glb",
+    "preview_url": "/previews/abo_B07QC876Z6.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07QC876Z6",
+    "original_product_url": "https://www.amazon.com/dp/B07QC876Z6",
+    "archive_product_id": "B07QC876Z6",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "Natural",
+      "material": "Pine / Medium-density Fibreboard / Wood",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "9a8473f9a1b31226b8d9224fddcbff24eabde1aa64b8469382f34794f73e2e5d",
+    "sha256": "7fe703af1b9482eef25233d839f5b9f1d28021611251ec46e22913608e5a3d19",
+    "bytes": 1782352,
+    "source_bytes": 32001820,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07QD6V6N8",
+    "source_asset_id": "abo_B07QD6V6N8",
+    "name": "茶几 · Amazon Brand – Rivet Industrial Coffee Table with Multisquare Wood Design, 47.24\"W",
+    "category": "coffee_table",
+    "width_mm": 1198.707222938538,
+    "height_mm": 398.353099822998,
+    "depth_mm": 649.291455745698,
+    "model_url": "/models/abo_B07QD6V6N8.glb",
+    "preview_url": "/previews/abo_B07QD6V6N8.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07QD6V6N8",
+    "original_product_url": "https://www.amazon.com/dp/B07QD6V6N8",
+    "archive_product_id": "B07QD6V6N8",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "Natural/Golden",
+      "material": "Metal / Wood",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "626d6d9daf98838d854f170ee267bd4986fa8b87eeea02466bb93e88f591ace8",
+    "sha256": "fde66f63c887da32a514fc08ac69021a179803eee7658f973a34d6eb760bedac",
+    "bytes": 1713040,
+    "source_bytes": 24223028,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07QD9BBRW",
+    "source_asset_id": "abo_B07QD9BBRW",
+    "name": "茶几 · 亚马逊品牌 - Stone & Beam 中世纪圆形咖啡桌，直径 98.98 厘米，冷杉和天然",
+    "category": "coffee_table",
+    "width_mm": 990.600000166887,
+    "height_mm": 469.9000264763782,
+    "depth_mm": 1015.9999132156381,
+    "model_url": "/models/abo_B07QD9BBRW.glb",
+    "preview_url": "/previews/abo_B07QD9BBRW.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07QD9BBRW",
+    "original_product_url": "https://www.amazon.com/dp/B07QD9BBRW",
+    "archive_product_id": "B07QD9BBRW",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "胡桃棕色 / Walnut",
+      "material": "Stone",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "57c37fca1743fc351c705312845f27e6ce08cea3bb88dd0fbf2da196c55d42c2",
+    "sha256": "169c6e7ec0bb4a40927feed0b7683ffba25afd9d5be59a6f5a2e122a7341cb40",
+    "bytes": 2925196,
+    "source_bytes": 33146080,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B075ZBW1RR",
+    "source_asset_id": "abo_B075ZBW1RR",
+    "name": "书架 · 亚马逊品牌 - Stone & Beam Larson 工业木材和金属 2 层书柜，99.06cm 高，胡桃木色",
+    "category": "shelf",
+    "width_mm": 822.497844696045,
+    "height_mm": 947.426676750183,
+    "depth_mm": 351.811289787293,
+    "model_url": "/models/abo_B075ZBW1RR.glb",
+    "preview_url": "/previews/abo_B075ZBW1RR.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B075ZBW1RR",
+    "original_product_url": "https://www.amazon.com/dp/B075ZBW1RR",
+    "archive_product_id": "B075ZBW1RR",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "棕色 / Walnut + Metal",
+      "material": "核桃色 / 金属 / 木头 / 灰石色 / walnut / metal / wood / stone",
+      "style": "40\" Bookcase",
+      "finish_type": "walnut",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "b22e4eda487a24bc57db0f74c41e3e32bdf430c53ae170e2bae8391a24d34158",
+    "sha256": "21af7cc9456e3981337df7df0cba606f94e2e0dfcdcf1610f6b5560fdeb03d38",
+    "bytes": 1012284,
+    "source_bytes": 2508796,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07DMHTGJD",
+    "source_asset_id": "abo_B07DMHTGJD",
+    "name": "书架 · 2L Lifestyle Hyder Wood Shelf Bookcase Tall, Brown",
+    "category": "shelf",
+    "width_mm": 763.022422790528,
+    "height_mm": 1600.01766681671,
+    "depth_mm": 402.72593498230003,
+    "model_url": "/models/abo_B07DMHTGJD.glb",
+    "preview_url": "/previews/abo_B07DMHTGJD.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07DMHTGJD",
+    "original_product_url": "https://www.amazon.com/dp/B07DMHTGJD",
+    "archive_product_id": "B07DMHTGJD",
+    "attributes": {
+      "brand": "2L Lifestyle",
+      "color": "Brown",
+      "material": "Wood / 木头",
+      "style": "Scandinavian / 北欧",
+      "finish_type": "espresso",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "301e681216efc1036bb1ac270f222c1c8f68dc61455ea1e4b7e77d2c41c6c921",
+    "sha256": "60748443d7ca36064405d22887943b2ad7d2633362fd84e509d5f64223bce807",
+    "bytes": 1408780,
+    "source_bytes": 24374136,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07HSCJZQM",
+    "source_asset_id": "abo_B07HSCJZQM",
+    "name": "书架 · Rivet LHI 无线电控制 (RC) 模块配件及用品",
+    "category": "shelf",
+    "width_mm": 652.159333229064,
+    "height_mm": 2004.92262840271,
+    "depth_mm": 453.666388988495,
+    "model_url": "/models/abo_B07HSCJZQM.glb",
+    "preview_url": "/previews/abo_B07HSCJZQM.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07HSCJZQM",
+    "original_product_url": "https://www.amazon.com/dp/B07HSCJZQM",
+    "archive_product_id": "B07HSCJZQM",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "Multi-colour",
+      "material": "Acacia / Metal / Engineered Wood",
+      "style": "书架 / Bookcase",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "1abf75f25af5f28e27a1594f61427ffb10cdc325c6f722f78b4cfc0329d67649",
+    "sha256": "c2002f046a0f82360b497199d4694ceafec00a6278a5fdf21de1cb6422de5874",
+    "bytes": 1233520,
+    "source_bytes": 2906528,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07HSG7KTN",
+    "source_asset_id": "abo_B07HSG7KTN",
+    "name": "书架 · Rivet Stevens 木制和金属现代家具, 灰色",
+    "category": "shelf",
+    "width_mm": 1342.100143432618,
+    "height_mm": 633.019983768463,
+    "depth_mm": 456.95669949054695,
+    "model_url": "/models/abo_B07HSG7KTN.glb",
+    "preview_url": "/previews/abo_B07HSG7KTN.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07HSG7KTN",
+    "original_product_url": "https://www.amazon.com/dp/B07HSG7KTN",
+    "archive_product_id": "B07HSG7KTN",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "灰色 / Gray",
+      "material": "",
+      "style": "Storage Benches",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "a174b7f266e3d3e008695d6004e9d8afb27d444380bd47791e278e027f39792e",
+    "sha256": "f93be8585bcec3961c483a43e008381d3669b78fd4274bb346bb6a874d28cbfe",
+    "bytes": 2081836,
+    "source_bytes": 37348504,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07HSG85ZR",
+    "source_asset_id": "abo_B07HSG85ZR",
+    "name": "书架 · Stone & Beam Southern 天空家长, 灰石色",
+    "category": "shelf",
+    "width_mm": 1148.627638816834,
+    "height_mm": 711.790204048157,
+    "depth_mm": 391.354978084564,
+    "model_url": "/models/abo_B07HSG85ZR.glb",
+    "preview_url": "/previews/abo_B07HSG85ZR.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07HSG85ZR",
+    "original_product_url": "https://www.amazon.com/dp/B07HSG85ZR",
+    "archive_product_id": "B07HSG85ZR",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "",
+      "material": "灰石色 / stone",
+      "style": "Media Cabinet",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "e4baf28fa9ba12187a6be5ed9e1f57396dab3b9615fd58b299ea133ab3242cf7",
+    "sha256": "7c1b97538e2fa78313a51090d0f1b25776e6aae7d83620132aedbe6fd7f768d7",
+    "bytes": 592772,
+    "source_bytes": 1243408,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07HSGBB2D",
+    "source_asset_id": "abo_B07HSGBB2D",
+    "name": "书架 · Stone & Beam Rylee Modern Bookcase 27.6\"W x 76.8”H, Mixed Gray",
+    "category": "shelf",
+    "width_mm": 491.480320692062,
+    "height_mm": 1341.93682670593,
+    "depth_mm": 267.29732751846404,
+    "model_url": "/models/abo_B07HSGBB2D.glb",
+    "preview_url": "/previews/abo_B07HSGBB2D.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07HSGBB2D",
+    "original_product_url": "https://www.amazon.com/dp/B07HSGBB2D",
+    "archive_product_id": "B07HSGBB2D",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "",
+      "material": "",
+      "style": "Bookcase",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "ad420ff7f1fe969b6c93cd8aac80b0e432a7971f340f9355c81ac22c8adf4f71",
+    "sha256": "29635a63b00a0fecfd95975f0583f5feab96dc8848465f91e215b1b605387571",
+    "bytes": 723772,
+    "source_bytes": 2155896,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07HSMYNYJ",
+    "source_asset_id": "abo_B07HSMYNYJ",
+    "name": "书架 · Rivet Stevens 木质和金属现代家具",
+    "category": "shelf",
+    "width_mm": 669.545650482178,
+    "height_mm": 1544.7875261306801,
+    "depth_mm": 322.630032896996,
+    "model_url": "/models/abo_B07HSMYNYJ.glb",
+    "preview_url": "/previews/abo_B07HSMYNYJ.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07HSMYNYJ",
+    "original_product_url": "https://www.amazon.com/dp/B07HSMYNYJ",
+    "archive_product_id": "B07HSMYNYJ",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "",
+      "material": "Acacia / Engineered Wood",
+      "style": "书架 / Bookcase",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "62bbeffce94fbc305ffd9ec8ae01a82ca5ee01192e99200ab825049474c559f9",
+    "sha256": "4f1727e1ec4825f19d327a762c799fd404cc5f9a5175371d083265760fffcd14",
+    "bytes": 1162280,
+    "source_bytes": 1893888,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07PHP31FB",
+    "source_asset_id": "abo_B07PHP31FB",
+    "name": "书架 · AmazonBasics 亚马逊倍思儿童多功能书架和玩具收纳箱, Espresso 咖啡色",
+    "category": "shelf",
+    "width_mm": 792.4037295770748,
+    "height_mm": 624.7891680498897,
+    "depth_mm": 375.8945653056977,
+    "model_url": "/models/abo_B07PHP31FB.glb",
+    "preview_url": "/previews/abo_B07PHP31FB.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07PHP31FB",
+    "original_product_url": "https://www.amazon.com/dp/B07PHP31FB",
+    "archive_product_id": "B07PHP31FB",
+    "attributes": {
+      "brand": "AmazonBasics",
+      "color": "Espresso 咖啡色 / Espresso",
+      "material": "",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "71667889c893ff263c14e40900aa27821c64b8c14eb06d4fd6d31287b25cc136",
+    "sha256": "ca8c37179608078d84e77a016ac4da7a6df1621a197160c75ce30f14587e27ed",
+    "bytes": 1467696,
+    "source_bytes": 27618288,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B072ZNMKG6",
+    "source_asset_id": "abo_B072ZNMKG6",
+    "name": "边几 · 铆钉发夹木质和金属咖啡桌控制台桌，结束桌, 金属, 棕色",
+    "category": "side_table",
+    "width_mm": 478.55032980442,
+    "height_mm": 640.660524368286,
+    "depth_mm": 479.669600725174,
+    "model_url": "/models/abo_B072ZNMKG6.glb",
+    "preview_url": "/previews/abo_B072ZNMKG6.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B072ZNMKG6",
+    "original_product_url": "https://www.amazon.com/dp/B072ZNMKG6",
+    "archive_product_id": "B072ZNMKG6",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "棕色 / Brown",
+      "material": "金属 / Metal",
+      "style": "桌子 / End Table",
+      "finish_type": "Walnut veneer",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "eacdc9d238bf331721de990b2eec689964dbbc405e0b4968b050506237955c2d",
+    "sha256": "3e74682fdbfe9cc520c7e1ce64ca976dd622a4f5b46cc8eb4552fc7e7b672475",
+    "bytes": 515876,
+    "source_bytes": 1624016,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B072ZP9XL1",
+    "source_asset_id": "abo_B072ZP9XL1",
+    "name": "边几 · 铆钉 AXEL lift-up 木与金属咖啡台，胡桃木",
+    "category": "side_table",
+    "width_mm": 678.9120435714719,
+    "height_mm": 464.091777801514,
+    "depth_mm": 675.639986991882,
+    "model_url": "/models/abo_B072ZP9XL1.glb",
+    "preview_url": "/previews/abo_B072ZP9XL1.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B072ZP9XL1",
+    "original_product_url": "https://www.amazon.com/dp/B072ZP9XL1",
+    "archive_product_id": "B072ZP9XL1",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "Brown",
+      "material": "Metal",
+      "style": "Coffee Table / Side table",
+      "finish_type": "Walnut veneer",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "e26f00487ea1045c59e2f0c679c79bed87db9a00769c63d4ebccaec2dd368e3f",
+    "sha256": "060c362e5e4f1d50294fca23e609f61581e35ea0ba491aae47953aacfdcfe1ec",
+    "bytes": 915240,
+    "source_bytes": 2715912,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07B7GV4P3",
+    "source_asset_id": "abo_B07B7GV4P3",
+    "name": "边几 · 铆钉 LF 5005 END",
+    "category": "side_table",
+    "width_mm": 454.52845096588203,
+    "height_mm": 558.822453022003,
+    "depth_mm": 454.528659582138,
+    "model_url": "/models/abo_B07B7GV4P3.glb",
+    "preview_url": "/previews/abo_B07B7GV4P3.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07B7GV4P3",
+    "original_product_url": "https://www.amazon.com/dp/B07B7GV4P3",
+    "archive_product_id": "B07B7GV4P3",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "Black",
+      "material": "metal",
+      "style": "Modern",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "18e42667eef104323fceb1ec5724edb3264159bbdaead2096fde71321a4ae75e",
+    "sha256": "2b7f63a33fb20a9d530d3d947ad7fbf6f23c81067367e7a08880b2d365bc65d0",
+    "bytes": 654340,
+    "source_bytes": 1348308,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07B7H9VMM",
+    "source_asset_id": "abo_B07B7H9VMM",
+    "name": "边几 · 铆钉 ningbo 艺术5005 END",
+    "category": "side_table",
+    "width_mm": 424.990564584732,
+    "height_mm": 604.062378406525,
+    "depth_mm": 440.78561663627704,
+    "model_url": "/models/abo_B07B7H9VMM.glb",
+    "preview_url": "/previews/abo_B07B7H9VMM.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07B7H9VMM",
+    "original_product_url": "https://www.amazon.com/dp/B07B7H9VMM",
+    "archive_product_id": "B07B7H9VMM",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "Natural",
+      "material": "wood",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "de714f80c35d9b62fff11bdce31cf34e36d844c9916c3141f96870b22e359f7f",
+    "sha256": "bc8d1d15509b2f5ec24d86500aa592eaa792984266036ffd4938953f20626452",
+    "bytes": 365912,
+    "source_bytes": 962056,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07DBB7FVL",
+    "source_asset_id": "abo_B07DBB7FVL",
+    "name": "边几 · Ravenna Home Morley 经典圆形底座桌, 松木, 黑色",
+    "category": "side_table",
+    "width_mm": 481.479704380036,
+    "height_mm": 664.5936965942379,
+    "depth_mm": 481.479704380036,
+    "model_url": "/models/abo_B07DBB7FVL.glb",
+    "preview_url": "/previews/abo_B07DBB7FVL.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07DBB7FVL",
+    "original_product_url": "https://www.amazon.com/dp/B07DBB7FVL",
+    "archive_product_id": "B07DBB7FVL",
+    "attributes": {
+      "brand": "Ravenna Home",
+      "color": "黑色 / Black",
+      "material": "松木 / Pine",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "ff93c7c29ded3176937cd03636566c94df9d3ab631dcb06875f16b926a313ee1",
+    "sha256": "f103e80728c59f53d1a1a8caa2bb625872b52554c45281d20397b7db23d0ba19",
+    "bytes": 868624,
+    "source_bytes": 2227236,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07DBB7N9L",
+    "source_asset_id": "abo_B07DBB7N9L",
+    "name": "边几 · Ravenna Home Anne Marie Circle 木质搁板弯曲腿咖啡桌, 松木, Dark Espresso 咖啡色",
+    "category": "side_table",
+    "width_mm": 502.08380818367004,
+    "height_mm": 495.706915855408,
+    "depth_mm": 433.25610458850906,
+    "model_url": "/models/abo_B07DBB7N9L.glb",
+    "preview_url": "/previews/abo_B07DBB7N9L.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07DBB7N9L",
+    "original_product_url": "https://www.amazon.com/dp/B07DBB7N9L",
+    "archive_product_id": "B07DBB7N9L",
+    "attributes": {
+      "brand": "Ravenna Home",
+      "color": "Dark Espresso 咖啡色 / Dark Espresso",
+      "material": "松木 / Pine",
+      "style": "Small Side Table",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "b96f5937c3534bc4d387aea62093e23e97ee693a4c3f2f5ad374aab1675c9aaa",
+    "sha256": "fffa524b1058db760757714b673f00cfcd2855353e3ad25453629d3f869dfe98",
+    "bytes": 847744,
+    "source_bytes": 1771980,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07DVRLW48",
+    "source_asset_id": "abo_B07DVRLW48",
+    "name": "边几 · Ravenna Home Priscilla 现代 X 框架端桌",
+    "category": "side_table",
+    "width_mm": 479.26810383796595,
+    "height_mm": 622.934341430664,
+    "depth_mm": 402.096137404442,
+    "model_url": "/models/abo_B07DVRLW48.glb",
+    "preview_url": "/previews/abo_B07DVRLW48.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07DVRLW48",
+    "original_product_url": "https://www.amazon.com/dp/B07DVRLW48",
+    "archive_product_id": "B07DVRLW48",
+    "attributes": {
+      "brand": "Ravenna Home",
+      "color": "",
+      "material": "",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "7bc0bd0f1421f5ce566bdaf2a51fec41d705538287f9e9ed5149fe58e2dcb5a4",
+    "sha256": "4c329740541d827e5168b96b2b8c4f0310aba4024f56027e75e666631beea340",
+    "bytes": 593176,
+    "source_bytes": 1415080,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07H2BTCFZ",
+    "source_asset_id": "abo_B07H2BTCFZ",
+    "name": "边几 · Ball & Cast End Table",
+    "category": "side_table",
+    "width_mm": 355.59997686574,
+    "height_mm": 612.14005947113,
+    "depth_mm": 584.1999489628619,
+    "model_url": "/models/abo_B07H2BTCFZ.glb",
+    "preview_url": "/previews/abo_B07H2BTCFZ.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07H2BTCFZ",
+    "original_product_url": "https://www.amazon.com/dp/B07H2BTCFZ",
+    "archive_product_id": "B07H2BTCFZ",
+    "attributes": {
+      "brand": "Ball & Cast",
+      "color": "Dark Brown / 深棕色",
+      "material": "HSA-5003 / Wood / 木头",
+      "style": "Traditional / 传统",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "29dab3a563842fe158c8d41d34037639e605904d1d8128b27f18b4ddee526caa",
+    "sha256": "4b20af1f49514bd94b57a0d967c9c822ae17b9530b4fd78fa980b352199715c8",
+    "bytes": 2688992,
+    "source_bytes": 20820456,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07HSJJVD8",
+    "source_asset_id": "abo_B07HSJJVD8",
+    "name": "边几 · Rivet Mid-Century Modern End Table, 15.75\"W, Walnut Stain",
+    "category": "side_table",
+    "width_mm": 406.14387392997804,
+    "height_mm": 598.50025177002,
+    "depth_mm": 300.105080008507,
+    "model_url": "/models/abo_B07HSJJVD8.glb",
+    "preview_url": "/previews/abo_B07HSJJVD8.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07HSJJVD8",
+    "original_product_url": "https://www.amazon.com/dp/B07HSJJVD8",
+    "archive_product_id": "B07HSJJVD8",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "",
+      "material": "",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "7908c9be0edc72395a2ecfc524f6ac6021f11185c4ccecd31f191bd9d028ddf2",
+    "sha256": "4eb9f5b555a2c5b6f62b1a044a1655fb0e2c9464c86195f22af64458fd47fd40",
+    "bytes": 777996,
+    "source_bytes": 2507000,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07MBFDJWL",
+    "source_asset_id": "abo_B07MBFDJWL",
+    "name": "边几 · Ravenna Home 传统实心松木桌收藏品, 木头, 黑色",
+    "category": "side_table",
+    "width_mm": 1183.6714148521419,
+    "height_mm": 735.31049489975,
+    "depth_mm": 458.67294073104904,
+    "model_url": "/models/abo_B07MBFDJWL.glb",
+    "preview_url": "/previews/abo_B07MBFDJWL.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07MBFDJWL",
+    "original_product_url": "https://www.amazon.com/dp/B07MBFDJWL",
+    "archive_product_id": "B07MBFDJWL",
+    "attributes": {
+      "brand": "Ravenna Home",
+      "color": "黑色 / Black",
+      "material": "木头 / Wood",
+      "style": "Console Table",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "1fec166821a96a46941c3b5871a649a9226dd7109a195e05b48255df9b9efaaa",
+    "sha256": "f99b130cf5f92a29e9e16b013a63cda88c0012913b6123f7dfbff4a35fde1edc",
+    "bytes": 1485440,
+    "source_bytes": 6916892,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07MF1RP5H",
+    "source_asset_id": "abo_B07MF1RP5H",
+    "name": "边几 · Ravenna Home 传统实心松木桌收藏品, 松木 木头",
+    "category": "side_table",
+    "width_mm": 597.005069255829,
+    "height_mm": 612.146198749542,
+    "depth_mm": 595.9495007991791,
+    "model_url": "/models/abo_B07MF1RP5H.glb",
+    "preview_url": "/previews/abo_B07MF1RP5H.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07MF1RP5H",
+    "original_product_url": "https://www.amazon.com/dp/B07MF1RP5H",
+    "archive_product_id": "B07MF1RP5H",
+    "attributes": {
+      "brand": "Ravenna Home",
+      "color": "Honey Pine",
+      "material": "松木 / 木头 / Pine / Wood",
+      "style": "桌子 / End Table",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "f16a75f37706ffcfd7b6ab2d907bdde228227ee9a6a6cad96ccb3b44b3da9380",
+    "sha256": "612fe38a113e8469b5668f81d253f05f15ca1db0b6911ee5a2ca50abdb67c0db",
+    "bytes": 1309872,
+    "source_bytes": 18286704,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07NYSHH9W",
+    "source_asset_id": "abo_B07NYSHH9W",
+    "name": "边几 · Ravenna Home Classic Plank-Top End Table, 18\"W, Espresso Wood",
+    "category": "side_table",
+    "width_mm": 602.475374937057,
+    "height_mm": 605.283975601196,
+    "depth_mm": 459.829196333886,
+    "model_url": "/models/abo_B07NYSHH9W.glb",
+    "preview_url": "/previews/abo_B07NYSHH9W.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07NYSHH9W",
+    "original_product_url": "https://www.amazon.com/dp/B07NYSHH9W",
+    "archive_product_id": "B07NYSHH9W",
+    "attributes": {
+      "brand": "Ravenna Home",
+      "color": "Espresso",
+      "material": "",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "c57190a6d477ebce9da8b0287b1d1c92b1199d5a621c1d052ae6cab0e4441185",
+    "sha256": "625aa35dca1a3a55d4147311cb91c78d2f436bce707bbbb255a67e7a269beaa9",
+    "bytes": 703628,
+    "source_bytes": 3079100,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07PY8XFFC",
+    "source_asset_id": "abo_B07PY8XFFC",
+    "name": "边几 · AmazonBasics 亚马逊倍思经典木制床头柜，带柜子, 金属 木头, 卡布奇诺岛色",
+    "category": "side_table",
+    "width_mm": 480.05998134613,
+    "height_mm": 634.999990463257,
+    "depth_mm": 380.999967455864,
+    "model_url": "/models/abo_B07PY8XFFC.glb",
+    "preview_url": "/previews/abo_B07PY8XFFC.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07PY8XFFC",
+    "original_product_url": "https://www.amazon.com/dp/B07PY8XFFC",
+    "archive_product_id": "B07PY8XFFC",
+    "attributes": {
+      "brand": "AmazonBasics",
+      "color": "卡布奇诺岛色 / Cappuccino",
+      "material": "金属 / 木头 / Metal / Medium-density Fibreboard / Wood",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "ba29133d7cdfc5bb900bdbaef10ebf921efa0d686d3e3205dfd7cca748d88e1b",
+    "sha256": "83d96334b38b8d7f156e21223a2796528cb5d139baf465adedef124ed9571d43",
+    "bytes": 1903616,
+    "source_bytes": 31902172,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07QB8FYS9",
+    "source_asset_id": "abo_B07QB8FYS9",
+    "name": "边几 · 亚马逊品牌 – Stone & Beam 工业派克板，金属底座，19.69 英寸宽，古铜色",
+    "category": "side_table",
+    "width_mm": 500.19776821136395,
+    "height_mm": 564.727365970612,
+    "depth_mm": 500.074326992034,
+    "model_url": "/models/abo_B07QB8FYS9.glb",
+    "preview_url": "/previews/abo_B07QB8FYS9.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07QB8FYS9",
+    "original_product_url": "https://www.amazon.com/dp/B07QB8FYS9",
+    "archive_product_id": "B07QB8FYS9",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "French Gray/ Antique Bronze Metal",
+      "material": "金属 / Metal",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "fd8cae40f53092ae0493782413c459929f524870a8c461f2f9e6901678d0c530",
+    "sha256": "6b38bbf7def1bed5e243d67b071c407842e080da6a506693bd8fe82bfc3f6893",
+    "bytes": 1451064,
+    "source_bytes": 20659356,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B071FMSY5M",
+    "source_asset_id": "abo_B071FMSY5M",
+    "name": "沙发 · Amazon 品牌 – 铆钉中世纪现代软垫沙发, 炭黑色",
+    "category": "sofa",
+    "width_mm": 1751.22618675232,
+    "height_mm": 919.902563095093,
+    "depth_mm": 968.887448310852,
+    "model_url": "/models/abo_B071FMSY5M.glb",
+    "preview_url": "/previews/abo_B071FMSY5M.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B071FMSY5M",
+    "original_product_url": "https://www.amazon.com/dp/B071FMSY5M",
+    "archive_product_id": "B071FMSY5M",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "炭黑色 / Charcoal",
+      "material": "Wood frame; Fabric",
+      "style": "过渡 / Transitional",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "38a5b1fb4fff69c983426368470e7c3ed5ce2ab4a76f3c6d50c3477762fc31f8",
+    "sha256": "2b6d332afd6a9dd26202794d47d28fffe029079ee134688bc22d18a90a15a02e",
+    "bytes": 1060248,
+    "source_bytes": 4166988,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B071J7Q3JM",
+    "source_asset_id": "abo_B071J7Q3JM",
+    "name": "沙发 · Amazon Brand – Stone & Beam Bradbury Chesterfield 现代簇绒皮革双人沙发长沙发,78.7 英寸宽,干邑色",
+    "category": "sofa",
+    "width_mm": 1979.214847087864,
+    "height_mm": 877.040386199951,
+    "depth_mm": 1042.098373174667,
+    "model_url": "/models/abo_B071J7Q3JM.glb",
+    "preview_url": "/previews/abo_B071J7Q3JM.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B071J7Q3JM",
+    "original_product_url": "https://www.amazon.com/dp/B071J7Q3JM",
+    "archive_product_id": "B071J7Q3JM",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "干邑色 / Cognac",
+      "material": "wood /100% leather",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "32b96c0954663782c1d84a2441caa47c4ee8b66fe3c1fa6af1f5db08c72f4212",
+    "sha256": "0eafdc7c3913ccd28b7cb71ee2f1ca1ccbf9702ee0c65a547d307a22250c8dae",
+    "bytes": 1413080,
+    "source_bytes": 3519096,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B072FVHS9G",
+    "source_asset_id": "abo_B072FVHS9G",
+    "name": "沙发 · Amazon Brand – Rivet Sloane 中世纪现代沙发带簇绒背,79.9 英寸宽,卵石色",
+    "category": "sofa",
+    "width_mm": 2055.1512241363603,
+    "height_mm": 872.676134109497,
+    "depth_mm": 967.953026294708,
+    "model_url": "/models/abo_B072FVHS9G.glb",
+    "preview_url": "/previews/abo_B072FVHS9G.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B072FVHS9G",
+    "original_product_url": "https://www.amazon.com/dp/B072FVHS9G",
+    "archive_product_id": "B072FVHS9G",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "卵石色 / Pebble",
+      "material": "wood /foam",
+      "style": "Mid-Century modern",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "9358a2ae0ac999ca4aff255b57b512d09735bd32b13a773878fec0fb7880fd1d",
+    "sha256": "45a41d747318c368df4be08b640d04337970fdc07adcbb7ce6ece181652e4a66",
+    "bytes": 1559004,
+    "source_bytes": 4835708,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B075X43FBS",
+    "source_asset_id": "abo_B075X43FBS",
+    "name": "沙发 · Amazon 品牌 – Rivet Lawson 现代斜角皮革双人座椅，147.32 厘米宽，马鞍棕色",
+    "category": "sofa",
+    "width_mm": 1473.040461540222,
+    "height_mm": 871.140241622925,
+    "depth_mm": 786.909222602844,
+    "model_url": "/models/abo_B075X43FBS.glb",
+    "preview_url": "/previews/abo_B075X43FBS.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B075X43FBS",
+    "original_product_url": "https://www.amazon.com/dp/B075X43FBS",
+    "archive_product_id": "B075X43FBS",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "鞍棕色 / Saddle Brown",
+      "material": "皮革 / Leather",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "1be1fb77f6dc7460916d7cb8e97bde76e6a7768002b94672c383e20bc0add00f",
+    "sha256": "6acbf7a2c181241f00e40dc3c283b04a671e179e21ca673b06bb5f5e71f7bc45",
+    "bytes": 3739372,
+    "source_bytes": 46852148,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B075X4F3V5",
+    "source_asset_id": "abo_B075X4F3V5",
+    "name": "沙发 · 铆钉 UPTOWN mid-century 簇绒定制 daybed 沙发, 木头, 浆果色",
+    "category": "sofa",
+    "width_mm": 1981.200218200684,
+    "height_mm": 635.0000320871636,
+    "depth_mm": 685.799975609769,
+    "model_url": "/models/abo_B075X4F3V5.glb",
+    "preview_url": "/previews/abo_B075X4F3V5.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B075X4F3V5",
+    "original_product_url": "https://www.amazon.com/dp/B075X4F3V5",
+    "archive_product_id": "B075X4F3V5",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "Berry",
+      "material": "木头 / Solid wood frame; Velvet upholstery; Metal",
+      "style": "Transitional",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "b0735a2c4299523fd1f501cfc68424d447aef2990397ec0787ef6059ec960e18",
+    "sha256": "599db337c40f1707c6362bf90715c51fc1ae57ddc0a3f489b1884850895b79c5",
+    "bytes": 2377164,
+    "source_bytes": 28340720,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07B4L6C7R",
+    "source_asset_id": "abo_B07B4L6C7R",
+    "name": "沙发 · Amazon Brand – Stone & Beam Andover 座椅系列, 皮革, 棕色（Saddle）",
+    "category": "sofa",
+    "width_mm": 1970.90744972229,
+    "height_mm": 862.596273422241,
+    "depth_mm": 922.6414263248439,
+    "model_url": "/models/abo_B07B4L6C7R.glb",
+    "preview_url": "/previews/abo_B07B4L6C7R.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07B4L6C7R",
+    "original_product_url": "https://www.amazon.com/dp/B07B4L6C7R",
+    "archive_product_id": "B07B4L6C7R",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "棕色（Saddle） / Saddle",
+      "material": "皮革 / Leather",
+      "style": "Loveseat",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "b927917611c855bdbbe7608e9fa0e38308c1bbfe0d4e994f3f05170bebe9226e",
+    "sha256": "ee8b38d227ac5fe03d90d6893ab508d4c7e737ef19fd2d80a5d4b3dbcdea31ee",
+    "bytes": 1550308,
+    "source_bytes": 2934976,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07B4N1MCL",
+    "source_asset_id": "abo_B07B4N1MCL",
+    "name": "沙发 · 亚马逊品牌 – Rivet Kaden 中世纪现代座椅系列, 浅灰色",
+    "category": "sofa",
+    "width_mm": 2015.1834487915003,
+    "height_mm": 956.39431476593,
+    "depth_mm": 856.0784757137301,
+    "model_url": "/models/abo_B07B4N1MCL.glb",
+    "preview_url": "/previews/abo_B07B4N1MCL.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07B4N1MCL",
+    "original_product_url": "https://www.amazon.com/dp/B07B4N1MCL",
+    "archive_product_id": "B07B4N1MCL",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "浅灰色 / Light Grey",
+      "material": "",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "86a563efb27aa105738f6d79c941a4d216e9ba696d96186527c58bd18d7c9a73",
+    "sha256": "23d0074e9b54a9cd92ff4ae7dc7be74dcf9916193273646c6ed15bc25ce4f152",
+    "bytes": 3708032,
+    "source_bytes": 74586324,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07HZ7YDCL",
+    "source_asset_id": "abo_B07HZ7YDCL",
+    "name": "沙发 · Amazon Brand - Stone & Beam Bagley 分段组件,左侧双人玩具,织物,52 英寸(约 132.4 厘米)宽,石材",
+    "category": "sofa",
+    "width_mm": 1388.344943523407,
+    "height_mm": 989.241778850555,
+    "depth_mm": 990.7128810882571,
+    "model_url": "/models/abo_B07HZ7YDCL.glb",
+    "preview_url": "/previews/abo_B07HZ7YDCL.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07HZ7YDCL",
+    "original_product_url": "https://www.amazon.com/dp/B07HZ7YDCL",
+    "archive_product_id": "B07HZ7YDCL",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "石色 / Stone",
+      "material": "尼龙 / Nylon",
+      "style": "Left Facing Loveseat",
+      "finish_type": "",
+      "fabric_type": "95% Polyester, 5% Nylon"
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "7dd9603621770ae5d927a123f5064a0a43188568a77c4b1ee0aa0950bfd9719b",
+    "sha256": "e8d430b7ae3d294d2b8d45f42a888c40ee7b37b4f75e1ebff2231cd551bf5f9a",
+    "bytes": 4167944,
+    "source_bytes": 78572008,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07JCDQWM6",
+    "source_asset_id": "abo_B07JCDQWM6",
+    "name": "沙发 · Rivet Thomas 现代沙发沙发, 皮革, 栗色",
+    "category": "sofa",
+    "width_mm": 2088.41657638549,
+    "height_mm": 702.919602394104,
+    "depth_mm": 1102.428376674653,
+    "model_url": "/models/abo_B07JCDQWM6.glb",
+    "preview_url": "/previews/abo_B07JCDQWM6.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07JCDQWM6",
+    "original_product_url": "https://www.amazon.com/dp/B07JCDQWM6",
+    "archive_product_id": "B07JCDQWM6",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "栗色 / Chestnut",
+      "material": "皮革 / Leather",
+      "style": "现代 / Modern",
+      "finish_type": "",
+      "fabric_type": "Polyster"
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "534b87d6a5f25aec61d3fc604fcfe79d16720150c2c2a58d3bb84986522e930a",
+    "sha256": "62cfa7607c52397212c5d9613e91b1d2577c7ed7e7d8cb213e08ba51024a4d1d",
+    "bytes": 1505648,
+    "source_bytes": 3345964,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07P8SRVPN",
+    "source_asset_id": "abo_B07P8SRVPN",
+    "name": "沙发 · Amazon Brand – Rivet Revolve 现代软垫双人沙发,56 英寸(约 143.2 厘米),传统绿",
+    "category": "sofa",
+    "width_mm": 1430.019974708558,
+    "height_mm": 899.159967899323,
+    "depth_mm": 878.83996963501,
+    "model_url": "/models/abo_B07P8SRVPN.glb",
+    "preview_url": "/previews/abo_B07P8SRVPN.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07P8SRVPN",
+    "original_product_url": "https://www.amazon.com/dp/B07P8SRVPN",
+    "archive_product_id": "B07P8SRVPN",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "Heritage Green",
+      "material": "涤纶 / Polyester",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "04b58243d7cea846343c18ce53b7627f0b0818c67b0cd58a23a893451218f99b",
+    "sha256": "83dbcbacba8cf70cc170a6339d29a1aa507080ead22f5ae0507a1d616f8fee27",
+    "bytes": 2572976,
+    "source_bytes": 43975812,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07P8ST9TY",
+    "source_asset_id": "abo_B07P8ST9TY",
+    "name": "沙发 · Amazon Brand – Stone & Beam Charles 经典超大皮革座椅系列, 木头, 鸽子",
+    "category": "sofa",
+    "width_mm": 2353.7690639495795,
+    "height_mm": 947.933614253998,
+    "depth_mm": 965.781450271607,
+    "model_url": "/models/abo_B07P8ST9TY.glb",
+    "preview_url": "/previews/abo_B07P8ST9TY.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07P8ST9TY",
+    "original_product_url": "https://www.amazon.com/dp/B07P8ST9TY",
+    "archive_product_id": "B07P8ST9TY",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "鸽子 / Dove",
+      "material": "木头 / Wood",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "b30cac757ad4d132fe59b87e47af271d12406144c8d000bcab019d8215a37dc3",
+    "sha256": "f6dde99dbf401c2bbba2ab8f7505c21d6a7b30fdc943111a169197f8198dc783",
+    "bytes": 2576728,
+    "source_bytes": 24862688,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07P8STHQ1",
+    "source_asset_id": "abo_B07P8STHQ1",
+    "name": "沙发 · Amazon Brand - Stone & Beam Lauren 羽绒填充超大皮革双人沙发,硬木框架,74 英寸宽,干邑色",
+    "category": "sofa",
+    "width_mm": 1880.12433052063,
+    "height_mm": 965.851962566376,
+    "depth_mm": 1143.5801982879639,
+    "model_url": "/models/abo_B07P8STHQ1.glb",
+    "preview_url": "/previews/abo_B07P8STHQ1.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07P8STHQ1",
+    "original_product_url": "https://www.amazon.com/dp/B07P8STHQ1",
+    "archive_product_id": "B07P8STHQ1",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "干邑色 / Cognac",
+      "material": "涤纶 / Polyester",
+      "style": "过渡 / Transitional",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "ec6d31efb5b6c7f07713afc0d3dd6a3446d98321233e6e8191ef4273b78e4eef",
+    "sha256": "95f66a08fa8aa8ad71183eef9971514059943893b7cd3e763c3dde43eb49c7f5",
+    "bytes": 3936996,
+    "source_bytes": 63104128,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07QBMQ4WZ",
+    "source_asset_id": "abo_B07QBMQ4WZ",
+    "name": "沙发 · Amazon 品牌 – Rivet Brooker 羽绒填充中世纪沙发 76\"W 顶级粒面皮革，干邑色",
+    "category": "sofa",
+    "width_mm": 1902.228474617004,
+    "height_mm": 838.618576526642,
+    "depth_mm": 903.823912143708,
+    "model_url": "/models/abo_B07QBMQ4WZ.glb",
+    "preview_url": "/previews/abo_B07QBMQ4WZ.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07QBMQ4WZ",
+    "original_product_url": "https://www.amazon.com/dp/B07QBMQ4WZ",
+    "archive_product_id": "B07QBMQ4WZ",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "干邑色 / Cognac",
+      "material": "",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": "皮革 / Leather"
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "a244dd93e7e89fcb99e497523e6b20468b73db137b7786b498909f34502beec5",
+    "sha256": "9e14d9cc1267584bcd8ffc8acbf522796c5453bf9f064054470fc3b001522a96",
+    "bytes": 3795204,
+    "source_bytes": 54761140,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07QCMB78S",
+    "source_asset_id": "abo_B07QCMB78S",
+    "name": "沙发 · Amazon Brand – Stone & Beam Anne Marie Contemporary Sofa Couch, 91.5\"W, Cream",
+    "category": "sofa",
+    "width_mm": 2323.21453094482,
+    "height_mm": 990.654587745667,
+    "depth_mm": 1016.184002161026,
+    "model_url": "/models/abo_B07QCMB78S.glb",
+    "preview_url": "/previews/abo_B07QCMB78S.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07QCMB78S",
+    "original_product_url": "https://www.amazon.com/dp/B07QCMB78S",
+    "archive_product_id": "B07QCMB78S",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "Sand",
+      "material": "",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "ed97c9c91940fe5613ffb495609819b38dd52b00e94d0f5a692d4e8ad12ef350",
+    "sha256": "1ddf1b628d2d99f503a0f89ee03cf52d11af58ab02e85a1ffde78465e177ab5b",
+    "bytes": 4487820,
+    "source_bytes": 61884448,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07QCMB7LV",
+    "source_asset_id": "abo_B07QCMB7LV",
+    "name": "沙发 · Rivet Damien 中世纪现代通道靠背座椅系列, 涤纶, 毛毡灰色",
+    "category": "sofa",
+    "width_mm": 1894.5087790489201,
+    "height_mm": 814.411580562592,
+    "depth_mm": 968.843996524811,
+    "model_url": "/models/abo_B07QCMB7LV.glb",
+    "preview_url": "/previews/abo_B07QCMB7LV.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07QCMB7LV",
+    "original_product_url": "https://www.amazon.com/dp/B07QCMB7LV",
+    "archive_product_id": "B07QCMB7LV",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "毛毡灰色 / Felt Grey",
+      "material": "涤纶 / Polyester",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": "织物 / Fabric"
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "a28e3e5cca1c92b09b9af50e15297f54b52e5c9cd1570cd512e52dbc52a4dc7f",
+    "sha256": "8a60c7c2068b774eca8ed364ffbb49e2c49d8642a495b4a98fd02999df990adf",
+    "bytes": 4144508,
+    "source_bytes": 59700304,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07QHYD61X",
+    "source_asset_id": "abo_B07QHYD61X",
+    "name": "沙发 · Amazon Brand - Stone & Beam Faraday 羽绒填充休闲双人沙发,75 英寸(约 190.5 厘米),炭黑色",
+    "category": "sofa",
+    "width_mm": 1908.5967540740971,
+    "height_mm": 845.039665699005,
+    "depth_mm": 1091.1661386489868,
+    "model_url": "/models/abo_B07QHYD61X.glb",
+    "preview_url": "/previews/abo_B07QHYD61X.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07QHYD61X",
+    "original_product_url": "https://www.amazon.com/dp/B07QHYD61X",
+    "archive_product_id": "B07QHYD61X",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "炭黑色 / Charcoal",
+      "material": "棉 / Cotton",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": "织物 / Fabric"
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "b1424ad6cd39374f6a30fad7d90567918619c533f809de0933f59c1f9f4c9412",
+    "sha256": "ffd99ad32cdd15b39d77b2b1e3271a1268dffbd402e1de4d8f2c93be1aa8fa0a",
+    "bytes": 2517756,
+    "source_bytes": 39838288,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B082QCQ6Z8",
+    "source_asset_id": "abo_B082QCQ6Z8",
+    "name": "沙发 · Amazon Brand – Rivet Bigelow Modern Sofa with Square Legs, 89.4\"W, Navy",
+    "category": "sofa",
+    "width_mm": 2270.04158496857,
+    "height_mm": 782.388210296631,
+    "depth_mm": 953.17068696022,
+    "model_url": "/models/abo_B082QCQ6Z8.glb",
+    "preview_url": "/previews/abo_B082QCQ6Z8.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B082QCQ6Z8",
+    "original_product_url": "https://www.amazon.com/dp/B082QCQ6Z8",
+    "archive_product_id": "B082QCQ6Z8",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "Navy",
+      "material": "",
+      "style": "Sofa",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "dd719c44d8d4f12c429e7bdc7025be74a5b31858fbc4157eb68857fb30ba9b6f",
+    "sha256": "855a26bca29585559c8d2fa876e7235570912dbcc6bc384dbd5feaeaac1880b9",
+    "bytes": 4866316,
+    "source_bytes": 71646708,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B0831Y1G61",
+    "source_asset_id": "abo_B0831Y1G61",
+    "name": "沙发 · Amazon Brand – Stone & Beam Cypress Modern Tufted Farmhouse Apartment Sofa Couch, 70\"W, Grey",
+    "category": "sofa",
+    "width_mm": 1777.999997138978,
+    "height_mm": 761.99996471405,
+    "depth_mm": 774.699985980988,
+    "model_url": "/models/abo_B0831Y1G61.glb",
+    "preview_url": "/previews/abo_B0831Y1G61.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B0831Y1G61",
+    "original_product_url": "https://www.amazon.com/dp/B0831Y1G61",
+    "archive_product_id": "B0831Y1G61",
+    "attributes": {
+      "brand": "Stone & Beam",
+      "color": "Grey",
+      "material": "Polyester / Nylon",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "46c81e663fdd15922da85c20c51951f036d12bd20d18c3296b2e629c3a7bc0b0",
+    "sha256": "c51f177fc3e967d46676f024e5b2099446310534b2dffbc40ccd4c2588a4bb62",
+    "bytes": 3733472,
+    "source_bytes": 49329780,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B072ZNBRR6",
+    "source_asset_id": "abo_B072ZNBRR6",
+    "name": "电视柜 · Rivet 工业金属腿电视媒体控制台，胡桃木色",
+    "category": "tv_stand",
+    "width_mm": 1795.850515365601,
+    "height_mm": 415.370553731918,
+    "depth_mm": 466.860949993134,
+    "model_url": "/models/abo_B072ZNBRR6.glb",
+    "preview_url": "/previews/abo_B072ZNBRR6.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B072ZNBRR6",
+    "original_product_url": "https://www.amazon.com/dp/B072ZNBRR6",
+    "archive_product_id": "B072ZNBRR6",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "棕色 / Brown",
+      "material": "MDF / Engineered Wood",
+      "style": "",
+      "finish_type": "Walnut veneer",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "dd16025b69d546b3dd91f782b3b7c06e550bfe884936b6fd18a2fd898b3c6355",
+    "sha256": "b8192d72c9568c378ecb2f5e4ab07cbd5fd6aa375c16eb1a318040afc1103b56",
+    "bytes": 2367836,
+    "source_bytes": 35393340,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B072ZNMKGM",
+    "source_asset_id": "abo_B072ZNMKGM",
+    "name": "电视柜 · Amazon Brand – Rivet King Street 工业橱柜媒体控制台桌,带功能存储,胡桃木,黑色金属,玻璃",
+    "category": "tv_stand",
+    "width_mm": 1198.879957199096,
+    "height_mm": 800.0999011881902,
+    "depth_mm": 398.779520069802,
+    "model_url": "/models/abo_B072ZNMKGM.glb",
+    "preview_url": "/previews/abo_B072ZNMKGM.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B072ZNMKGM",
+    "original_product_url": "https://www.amazon.com/dp/B072ZNMKGM",
+    "archive_product_id": "B072ZNMKGM",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "棕色 / Brown",
+      "material": "金属 / Metal",
+      "style": "Open Console Table",
+      "finish_type": "Walnut veneer",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "bfa75232f9156bd23f51ff16f4535134d2a27a9cf759c29fa3d13c2aea4dae76",
+    "sha256": "051411dd55ed63a920b0574a7a74372a6cd6b6cc12ff673103f25658529ece58",
+    "bytes": 1473700,
+    "source_bytes": 18057644,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B072ZNPRTC",
+    "source_asset_id": "abo_B072ZNPRTC",
+    "name": "电视柜 · Rivet King Street 工业四抽屉媒体控制台桌，胡桃木，黑色金属，玻璃",
+    "category": "tv_stand",
+    "width_mm": 1198.879957199096,
+    "height_mm": 800.0999011881902,
+    "depth_mm": 401.3292420113211,
+    "model_url": "/models/abo_B072ZNPRTC.glb",
+    "preview_url": "/previews/abo_B072ZNPRTC.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B072ZNPRTC",
+    "original_product_url": "https://www.amazon.com/dp/B072ZNPRTC",
+    "archive_product_id": "B072ZNPRTC",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "棕色 / Brown",
+      "material": "金属 / Metal",
+      "style": "Storage Console Table",
+      "finish_type": "Walnut veneer",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "73b39dbc7c2b5b949772132683d8f5f2e7deb65008241aa6018875f880cc5e75",
+    "sha256": "b922051adabc9845eb80ab5aaf642d06afead2cbc8a67dc4598ef6c0034da5fe",
+    "bytes": 1932540,
+    "source_bytes": 28564044,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07DBB7NBH",
+    "source_asset_id": "abo_B07DBB7NBH",
+    "name": "电视柜 · Ravenna Home Sara 乡村风格存储电视媒体娱乐架",
+    "category": "tv_stand",
+    "width_mm": 1361.758828163147,
+    "height_mm": 871.749043464661,
+    "depth_mm": 410.347580909729,
+    "model_url": "/models/abo_B07DBB7NBH.glb",
+    "preview_url": "/previews/abo_B07DBB7NBH.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07DBB7NBH",
+    "original_product_url": "https://www.amazon.com/dp/B07DBB7NBH",
+    "archive_product_id": "B07DBB7NBH",
+    "attributes": {
+      "brand": "Ravenna Home",
+      "color": "Dark Espresso",
+      "material": "",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "9e951e51aad9f08cc621670d5ad1ed63e445054cd64f23089baf7a9db3ccdefe",
+    "sha256": "5458d8db93cd85d25a8e9b1562de103cc6bf0f92bde2e2af32cf64f10ac99604",
+    "bytes": 971656,
+    "source_bytes": 2304988,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07HSG5DGP",
+    "source_asset_id": "abo_B07HSG5DGP",
+    "name": "电视柜 · Rivet LHI 无线电控制 (RC) 模块配件及用品",
+    "category": "tv_stand",
+    "width_mm": 1480.0889492034921,
+    "height_mm": 506.48802518844604,
+    "depth_mm": 454.257994890213,
+    "model_url": "/models/abo_B07HSG5DGP.glb",
+    "preview_url": "/previews/abo_B07HSG5DGP.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07HSG5DGP",
+    "original_product_url": "https://www.amazon.com/dp/B07HSG5DGP",
+    "archive_product_id": "B07HSG5DGP",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "",
+      "material": "",
+      "style": "Media Cabinet",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "687320473efea374ffc5df3309779b229b04656029d0084a7bf1091a0d7da021",
+    "sha256": "8629dc562c258765b6fc347b4fcc565b86f1151ff1fc6d6a1ebee13c173d79ac",
+    "bytes": 411920,
+    "source_bytes": 785356,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07HSG8DPZ",
+    "source_asset_id": "abo_B07HSG8DPZ",
+    "name": "电视柜 · Amazon Brand – Rivet Emerly Contemporary Media Console Center Storage Cabinet, 57\"W, Wood",
+    "category": "tv_stand",
+    "width_mm": 1447.799921035766,
+    "height_mm": 528.320074081421,
+    "depth_mm": 348.740980029106,
+    "model_url": "/models/abo_B07HSG8DPZ.glb",
+    "preview_url": "/previews/abo_B07HSG8DPZ.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07HSG8DPZ",
+    "original_product_url": "https://www.amazon.com/dp/B07HSG8DPZ",
+    "archive_product_id": "B07HSG8DPZ",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "",
+      "material": "",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "495dffe13de08f7e75ef406d2085f6a0181fe6357b499538fbd74fec7070f0f6",
+    "sha256": "e2b5eedaca9c1fefb5c0d59766ccb149013be8cd3a215f9dc61307f9e39396ef",
+    "bytes": 1099988,
+    "source_bytes": 3226524,
+    "texture_sizes_original": [
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ],
+      [
+        2048,
+        2048
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07QHKJP7P",
+    "source_asset_id": "abo_B07QHKJP7P",
+    "name": "电视柜 · Amazon 品牌 - Rivet Arbor 中世纪媒体控制台锥形腿，39 英寸宽，白色",
+    "category": "tv_stand",
+    "width_mm": 990.6406402587891,
+    "height_mm": 660.417258739471,
+    "depth_mm": 407.334804534912,
+    "model_url": "/models/abo_B07QHKJP7P.glb",
+    "preview_url": "/previews/abo_B07QHKJP7P.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07QHKJP7P",
+    "original_product_url": "https://www.amazon.com/dp/B07QHKJP7P",
+    "archive_product_id": "B07QHKJP7P",
+    "attributes": {
+      "brand": "Rivet",
+      "color": "白色 / White",
+      "material": "",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "47ba69a1fa3c0a90bf59d449c36036b6a3496c3bc7639e7f7465267cd6187d26",
+    "sha256": "dae35aac009668d554a29f9e40370184d0bf8a97eaafbeb645074ab7fd80b02a",
+    "bytes": 1573448,
+    "source_bytes": 18452360,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  },
+  {
+    "product_id": "abo_B07V38TBKP",
+    "source_asset_id": "abo_B07V38TBKP",
+    "name": "电视柜 · AmazonBasics Classic 58\" TV Stand with Side Doors, Cherry",
+    "category": "tv_stand",
+    "width_mm": 1465.6554460525522,
+    "height_mm": 610.259056091309,
+    "depth_mm": 398.02619814872696,
+    "model_url": "/models/abo_B07V38TBKP.glb",
+    "preview_url": "/previews/abo_B07V38TBKP.jpg",
+    "source_url": "https://amazon-berkeley-objects.s3.amazonaws.com/index.html#B07V38TBKP",
+    "original_product_url": "https://www.amazon.com/dp/B07V38TBKP",
+    "archive_product_id": "B07V38TBKP",
+    "attributes": {
+      "brand": "AmazonBasics",
+      "color": "Cherry",
+      "material": "",
+      "style": "",
+      "finish_type": "",
+      "fabric_type": ""
+    },
+    "price_fen": null,
+    "availability": "archive_not_live_inventory",
+    "license": "CC-BY-4.0",
+    "attribution": "Amazon.com; ABO dataset by Amazon.com and UC Berkeley",
+    "modifications": "Embedded textures resized to <=1024px; added root transform to ground centre and face project -Z. Original geometry, UVs and PBR channels retained.",
+    "dimension_basis": "ABO model geometry bounding box, metres; not verified manufacturer dimensions",
+    "front_yaw_deg": 180,
+    "source_sha256": "19c8e5b0f50bb39e81d9ed80f9f478d5aa7d69270152ca1ed7c03e196b7da391",
+    "sha256": "534bbfc14e11e06e68eafa086426f5e235c74dd18c317e514ebdf9ed811de996",
+    "bytes": 3397668,
+    "source_bytes": 39603204,
+    "texture_sizes_original": [
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ],
+      [
+        4096,
+        4096
+      ]
+    ],
+    "model_match_status": "ABO original product-to-model mapping; no mapping to IKEA SKUs",
+    "geometry_verified": true
+  }
+]

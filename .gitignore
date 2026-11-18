@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.vite/
+*.log
+.local/
+.env*
+!.env.example
+
+exports/
+Open-YunZhuJia.url
+__pycache__/
+*.pyc

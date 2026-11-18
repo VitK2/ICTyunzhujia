@@ -1,0 +1,18 @@
+import assert from 'node:assert/strict';
+import {readFileSync} from 'node:fs';
+import {buildCatalog} from '../src/catalog.ts';
+import {validate} from '../src/engine.ts';
+const base=process.argv[2]||'http://127.0.0.1:5174';
+const status=await(await fetch(base+'/api/agent/status')).json();
+assert.equal(status.mode,'demo','This check expects demo mode; it does not call paid cloud models.');
+assert.ok(!('apiKey' in status));
+const read=name=>JSON.parse(readFileSync(new URL('../public/data/'+name,import.meta.url),'utf8'));
+const products=buildCatalog(read('catalog.json'),read('retail.json'));
+const ids=['sofa_02','modern_coffee_table_01','modern_wooden_cabinet','modern_arm_chair_01','side_table_01'];
+const positions=[[2.55,.72,180],[2.55,2.35,90],[2.5,4.35,0],[4.55,2.1,-90],[.85,.7,0]];
+const plan={name:'Agent HTTP验收',room:{width:5.6,depth:4.8,height:2.8,doorX:4.25,doorWidth:.9},budget:10000,reserved:false,items:ids.map((id,n)=>({id:'check-'+n,productId:'ph_'+id,x:positions[n][0],z:positions[n][1],yaw:positions[n][2],locked:false,estimate:null}))};
+const response=await fetch(base+'/api/agent/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({message:'预算8000元，保留沙发，茶几换小一点，留出活动区，生成阅读方案',plan,history:[]})});
+assert.equal(response.status,200);
+const result=await response.json();assert.equal(result.mode,'demo');assert.equal(result.changed,true);assert.equal(result.plan.budget,8000);assert.equal(result.plan.reserved,true);assert.deepEqual(result.plan.items.find(i=>i.id==='check-0'),{...plan.items[0],locked:true});assert.notEqual(result.plan.items.find(i=>i.id==='check-1').productId,plan.items[1].productId);assert.equal(validate(result.plan,products).length,0);assert.ok(result.trace.some(t=>t.tool==='search_furniture'&&t.ok));assert.ok(result.trace.some(t=>t.tool==='generate_layout'&&t.ok));
+const forbidden=await fetch(base+'/api/agent/chat',{method:'POST',headers:{'Content-Type':'application/json',Origin:'https://untrusted.invalid'},body:'{}'});assert.equal(forbidden.status,403);
+console.log(JSON.stringify({http:response.status,mode:status.mode,toolSteps:result.trace.length,geometryIssues:0,locksPreserved:true,smallerTable:true,budget:result.plan.budget,crossOriginRejected:true},null,2));

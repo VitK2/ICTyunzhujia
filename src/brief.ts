@@ -1,0 +1,3 @@
+export type UserBrief={location:string;preferences:string;activities:string;layoutMode:'airy'|'social'|'reading';buyingMode:'retail'|'mixed'};
+export const DEFAULT_BRIEF:UserBrief={location:'',preferences:'',activities:'',layoutMode:'airy',buyingMode:'retail'};
+export function validBrief(value:unknown):value is UserBrief{const b=value as UserBrief;return !!b&&typeof b==='object'&&typeof b.location==='string'&&b.location.length<=80&&typeof b.preferences==='string'&&b.preferences.length<=500&&typeof b.activities==='string'&&b.activities.length<=500&&['airy','social','reading'].includes(b.layoutMode)&&['retail','mixed'].includes(b.buyingMode);}
